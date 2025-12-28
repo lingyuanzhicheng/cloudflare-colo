@@ -1,0 +1,582 @@
+[
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Ashburn",
+        "city.name.zh": "阿什本",
+        "iata.code": "IAD"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Atlanta",
+        "city.name.zh": "亚特兰大",
+        "iata.code": "ATL"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Boston",
+        "city.name.zh": "波士顿",
+        "iata.code": "BOS"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Buffalo",
+        "city.name.zh": "布法罗",
+        "iata.code": "BUF"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Calgary",
+        "city.name.zh": "卡尔加里",
+        "iata.code": "YYC"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Charlotte",
+        "city.name.zh": "夏洛特",
+        "iata.code": "CLT"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Chicago",
+        "city.name.zh": "芝加哥",
+        "iata.code": "ORD"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Columbus",
+        "city.name.zh": "哥伦布",
+        "iata.code": "CMH"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Dallas",
+        "city.name.zh": "达拉斯",
+        "iata.code": "DFW"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Denver",
+        "city.name.zh": "丹佛",
+        "iata.code": "DEN"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Honolulu",
+        "city.name.zh": "火奴鲁鲁",
+        "iata.code": "HNL"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Houston",
+        "city.name.zh": "休斯敦",
+        "iata.code": "IAH"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Indianapolis",
+        "city.name.zh": "印第安纳波利斯",
+        "iata.code": "IND"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Jacksonville",
+        "city.name.zh": "杰克逊维尔",
+        "iata.code": "JAX"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Kansas City",
+        "city.name.zh": "堪萨斯城",
+        "iata.code": "MCI"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Las Vegas",
+        "city.name.zh": "拉斯维加斯",
+        "iata.code": "LAS"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Los Angeles",
+        "city.name.zh": "洛杉矶",
+        "iata.code": "LAX"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Memphis",
+        "city.name.zh": "孟菲斯",
+        "iata.code": "MEM"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Mexico",
+        "country.name.zh": "墨西哥",
+        "country.code": "MX",
+        "city.name": "Mexico City",
+        "city.name.zh": "墨西哥城",
+        "iata.code": "MEX"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Miami",
+        "city.name.zh": "迈阿密",
+        "iata.code": "MIA"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Minneapolis",
+        "city.name.zh": "明尼阿波利斯",
+        "iata.code": "MSP"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Montréal",
+        "city.name.zh": "蒙特利尔",
+        "iata.code": "YUL"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Nashville",
+        "city.name.zh": "纳什维尔",
+        "iata.code": "BNA"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Newark",
+        "city.name.zh": "纽瓦克",
+        "iata.code": "EWR"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Norfolk",
+        "city.name.zh": "诺福克",
+        "iata.code": "ORF"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Omaha",
+        "city.name.zh": "奥马哈",
+        "iata.code": "OMA"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Ottawa",
+        "city.name.zh": "渥太华",
+        "iata.code": "YOW"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Philadelphia",
+        "city.name.zh": "费城",
+        "iata.code": "PHL"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Phoenix",
+        "city.name.zh": "菲尼克斯",
+        "iata.code": "PHX"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Pittsburgh",
+        "city.name.zh": "匹兹堡",
+        "iata.code": "PIT"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Portland",
+        "city.name.zh": "波特兰",
+        "iata.code": "PDX"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Mexico",
+        "country.name.zh": "墨西哥",
+        "country.code": "MX",
+        "city.name": "Queretaro",
+        "city.name.zh": "克雷塔罗",
+        "iata.code": "QRO"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Richmond",
+        "city.name.zh": "里士满",
+        "iata.code": "RIC"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Sacramento",
+        "city.name.zh": "萨克拉门托",
+        "iata.code": "SMF"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Salt Lake City",
+        "city.name.zh": "盐湖城",
+        "iata.code": "SLC"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "San Diego",
+        "city.name.zh": "圣迭戈",
+        "iata.code": "SAN"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "San Jose",
+        "city.name.zh": "圣何塞",
+        "iata.code": "SJC"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "San Jose",
+        "city.name.zh": "萨斯卡通",
+        "iata.code": "YXE"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Seattle",
+        "city.name.zh": "西雅图",
+        "iata.code": "SEA"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Sioux Falls",
+        "city.name.zh": "苏福尔斯",
+        "iata.code": "FSD"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "St. Louis",
+        "city.name.zh": "圣路易斯",
+        "iata.code": "STL"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Tallahassee",
+        "city.name.zh": "塔拉哈西",
+        "iata.code": "TLH"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Toronto",
+        "city.name.zh": "多伦多",
+        "iata.code": "YYZ"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Vancouver",
+        "city.name.zh": "温哥华",
+        "iata.code": "YVR"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Winnipeg",
+        "city.name.zh": "温尼伯",
+        "iata.code": "YWG"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "San Francisco",
+        "city.name.zh": "旧金山",
+        "iata.code": "SFO"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Jamaica",
+        "country.name.zh": "牙买加",
+        "country.code": "US",
+        "city.name": "Kingston",
+        "city.name.zh": "金斯敦",
+        "iata.code": "KIN"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Bangor",
+        "city.name.zh": "班戈",
+        "iata.code": "BGR"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Austin",
+        "city.name.zh": "奥斯汀",
+        "iata.code": "AUS"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Albuquerque",
+        "city.name.zh": "阿尔伯克基",
+        "iata.code": "ABQ"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Mexico",
+        "country.name.zh": "墨西哥",
+        "country.code": "MX",
+        "city.name": "Guadalajara",
+        "city.name.zh": "瓜达拉哈拉",
+        "iata.code": "GDL"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "San Antonio",
+        "city.name.zh": "圣安东尼奥",
+        "iata.code": "SAT"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Cleveland",
+        "city.name.zh": "克利夫兰",
+        "iata.code": "CLE"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Durham",
+        "city.name.zh": "达勒姆",
+        "iata.code": "RDU"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Oklahoma City",
+        "city.name.zh": "俄克拉何马城",
+        "iata.code": "OKC"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Tampa",
+        "city.name.zh": "坦帕",
+        "iata.code": "TPA"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "United States",
+        "country.name.zh": "美国",
+        "country.code": "US",
+        "city.name": "Anchorage",
+        "city.name.zh": "安克雷奇",
+        "iata.code": "ANC"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Halifax",
+        "city.name.zh": "哈利法斯",
+        "iata.code": "YHZ"
+    }
+]
