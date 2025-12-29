@@ -1,5 +1,1635 @@
 [
     {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Albania",
+        "country.name.zh": "阿尔巴尼亚",
+        "country.code": "AL",
+        "city.name": "Tirana",
+        "city.name.zh": "地拉那",
+        "iata.code": "TIA"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Algeria",
+        "country.name.zh": "阿尔及利亚",
+        "country.code": "DZ",
+        "city.name": "Algiers",
+        "city.name.zh": "阿尔及尔",
+        "iata.code": "ALG"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Algeria",
+        "country.name.zh": "阿尔及利亚",
+        "country.code": "DZ",
+        "city.name": "Annaba",
+        "city.name.zh": "安纳巴",
+        "iata.code": "AAE"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Algeria",
+        "country.name.zh": "阿尔及利亚",
+        "country.code": "DZ",
+        "city.name": "Oran",
+        "city.name.zh": "奥兰",
+        "iata.code": "ORN"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Algeria",
+        "country.name.zh": "阿尔及利亚",
+        "country.code": "DZ",
+        "city.name": "Constantine",
+        "city.name.zh": "君士坦丁",
+        "iata.code": "CZL"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Argentina",
+        "country.name.zh": "阿根廷",
+        "country.code": "AR",
+        "city.name": "Buenos Aires",
+        "city.name.zh": "布宜诺斯艾利斯",
+        "iata.code": "EZE"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Argentina",
+        "country.name.zh": "阿根廷",
+        "country.code": "AR",
+        "city.name": "Córdoba",
+        "city.name.zh": "科尔多瓦",
+        "iata.code": "COR"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Argentina",
+        "country.name.zh": "阿根廷",
+        "country.code": "AR",
+        "city.name": "Neuquén",
+        "city.name.zh": "内乌肯",
+        "iata.code": "NQN"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Argentina",
+        "country.name.zh": "阿根廷",
+        "country.code": "AR",
+        "city.name": "Neuquen",
+        "city.name.zh": "内乌肯",
+        "iata.code": "NQN"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "United Arab Emirates",
+        "country.name.zh": "阿拉伯联合酋长国",
+        "country.code": "AE",
+        "city.name": "Dubai",
+        "city.name.zh": "迪拜",
+        "iata.code": "DXB"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Oman",
+        "country.name.zh": "阿曼",
+        "country.code": "OM",
+        "city.name": "Muscat",
+        "city.name.zh": "马斯喀特",
+        "iata.code": "MCT"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Azerbaijan",
+        "country.name.zh": "阿塞拜疆",
+        "country.code": "AZ",
+        "city.name": "Astara",
+        "city.name.zh": "阿斯塔拉",
+        "iata.code": "LLK"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Azerbaijan",
+        "country.name.zh": "阿塞拜疆",
+        "country.code": "AZ",
+        "city.name": "Baku",
+        "city.name.zh": "巴库",
+        "iata.code": "GYD"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Egypt",
+        "country.name.zh": "埃及",
+        "country.code": "EG",
+        "city.name": "Cairo",
+        "city.name.zh": "开罗",
+        "iata.code": "CAI"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Ethiopia",
+        "country.name.zh": "埃塞俄比亚",
+        "country.code": "ET",
+        "city.name": "Addis Ababa",
+        "city.name.zh": "亚的斯亚贝巴",
+        "iata.code": "ADD"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Ireland",
+        "country.name.zh": "爱尔兰",
+        "country.code": "IE",
+        "city.name": "Dublin",
+        "city.name.zh": "都柏林",
+        "iata.code": "DUB"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Estonia",
+        "country.name.zh": "爱沙尼亚",
+        "country.code": "EE",
+        "city.name": "Tallinn",
+        "city.name.zh": "塔林",
+        "iata.code": "TLL"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Angola",
+        "country.name.zh": "安哥拉",
+        "country.code": "AO",
+        "city.name": "Luanda",
+        "city.name.zh": "罗安达",
+        "iata.code": "LAD"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Austria",
+        "country.name.zh": "奥地利",
+        "country.code": "AT",
+        "city.name": "Vienna",
+        "city.name.zh": "维也纳",
+        "iata.code": "VIE"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Australia",
+        "country.name.zh": "澳大利亚",
+        "country.code": "AU",
+        "city.name": "Adelaide",
+        "city.name.zh": "阿德莱德",
+        "iata.code": "ADL"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Australia",
+        "country.name.zh": "澳大利亚",
+        "country.code": "AU",
+        "city.name": "Brisbane",
+        "city.name.zh": "布里斯班",
+        "iata.code": "BNE"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Australia",
+        "country.name.zh": "澳大利亚",
+        "country.code": "AU",
+        "city.name": "Canberra",
+        "city.name.zh": "堪培拉",
+        "iata.code": "CBR"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Australia",
+        "country.name.zh": "澳大利亚",
+        "country.code": "AU",
+        "city.name": "Melbourne",
+        "city.name.zh": "墨尔本",
+        "iata.code": "MEL"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Australia",
+        "country.name.zh": "澳大利亚",
+        "country.code": "AU",
+        "city.name": "Perth",
+        "city.name.zh": "珀斯",
+        "iata.code": "PER"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Australia",
+        "country.name.zh": "澳大利亚",
+        "country.code": "AU",
+        "city.name": "Sydney",
+        "city.name.zh": "悉尼",
+        "iata.code": "SYD"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Australia",
+        "country.name.zh": "澳大利亚",
+        "country.code": "AU",
+        "city.name": "Hobart",
+        "city.name.zh": "霍巴特",
+        "iata.code": "HBA"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Barbados",
+        "country.name.zh": "巴巴多斯",
+        "country.code": "BB",
+        "city.name": "Bridgetown",
+        "city.name.zh": "布里奇敦",
+        "iata.code": "BGI"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Pakistan",
+        "country.name.zh": "巴基斯坦",
+        "country.code": "PK",
+        "city.name": "Islamabad",
+        "city.name.zh": "伊斯兰堡",
+        "iata.code": "ISB"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Pakistan",
+        "country.name.zh": "巴基斯坦",
+        "country.code": "PK",
+        "city.name": "Karachi",
+        "city.name.zh": "卡拉奇",
+        "iata.code": "KHI"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Pakistan",
+        "country.name.zh": "巴基斯坦",
+        "country.code": "PK",
+        "city.name": "Lahore",
+        "city.name.zh": "拉合尔",
+        "iata.code": "LHE"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Paraguay",
+        "country.name.zh": "巴拉圭",
+        "country.code": "PY",
+        "city.name": "Asunción",
+        "city.name.zh": "亚松森",
+        "iata.code": "ASU"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "The State of Palestine",
+        "country.name.zh": "巴勒斯坦国",
+        "country.code": "PS",
+        "city.name": "Ramallah ",
+        "city.name.zh": "拉姆安拉",
+        "iata.code": "ZDM"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Bahrain",
+        "country.name.zh": "巴林",
+        "country.code": "BH",
+        "city.name": "Manama",
+        "city.name.zh": "麦纳麦",
+        "iata.code": "BAH"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Panama",
+        "country.name.zh": "巴拿马",
+        "country.code": "PA",
+        "city.name": "Panama City",
+        "city.name.zh": "巴拿马城",
+        "iata.code": "PTY"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Americana",
+        "city.name.zh": "阿梅里卡纳",
+        "iata.code": "QWJ"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Belém",
+        "city.name.zh": "贝伦",
+        "iata.code": "BEL"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Belém",
+        "city.name.zh": "贝洛奥里藏特",
+        "iata.code": "CNF"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Blumenau",
+        "city.name.zh": "布鲁梅瑙",
+        "iata.code": "BNU"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Brasilia",
+        "city.name.zh": "巴西利亚",
+        "iata.code": "BSB"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Caçador",
+        "city.name.zh": "卡萨多尔",
+        "iata.code": "CFC"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Campinas",
+        "city.name.zh": "坎皮纳斯",
+        "iata.code": "VCP"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Curitiba",
+        "city.name.zh": "库里蒂巴",
+        "iata.code": "CWB"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Florianopolis",
+        "city.name.zh": "弗洛里亚诺波利斯",
+        "iata.code": "FLN"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Fortaleza",
+        "city.name.zh": "福塔雷萨",
+        "iata.code": "FOR"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Goiânia",
+        "city.name.zh": "戈亚尼亚",
+        "iata.code": "GYN"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Joinville",
+        "city.name.zh": "若因维利",
+        "iata.code": "JOI"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Juazeiro do Norte",
+        "city.name.zh": "北茹阿泽鲁",
+        "iata.code": "JDO"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Manaus",
+        "city.name.zh": "马瑙斯",
+        "iata.code": "MAO"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Porto Alegre",
+        "city.name.zh": "阿雷格里港",
+        "iata.code": "POA"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Recife",
+        "city.name.zh": "累西腓",
+        "iata.code": "REC"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Ribeirao Preto",
+        "city.name.zh": "里贝朗普雷图",
+        "iata.code": "RAO"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Rio de Janeiro",
+        "city.name.zh": "里约热内卢",
+        "iata.code": "GIG"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "São José do Rio Preto",
+        "city.name.zh": "普雷图河畔圣若泽",
+        "iata.code": "SJP"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "São José dos Campos",
+        "city.name.zh": "圣若泽-杜斯坎普斯",
+        "iata.code": "SJK"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "São Paulo",
+        "city.name.zh": "圣保罗",
+        "iata.code": "GRU"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Sorocaba",
+        "city.name.zh": "索罗卡巴",
+        "iata.code": "SOD"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Timbó",
+        "city.name.zh": "廷博",
+        "iata.code": "NVT"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Uberlândia",
+        "city.name.zh": "乌贝兰迪亚",
+        "iata.code": "UDI"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Vitoria",
+        "city.name.zh": "维多利亚",
+        "iata.code": "VIX"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Campos dos Goytacazes",
+        "city.name.zh": "坎普斯-杜斯戈伊塔卡齐斯",
+        "iata.code": "CAW"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Chapeco",
+        "city.name.zh": "沙佩科",
+        "iata.code": "XAP"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Palmas",
+        "city.name.zh": "帕尔马斯",
+        "iata.code": "PMW"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Aracatuba",
+        "city.name.zh": "阿拉萨图巴",
+        "iata.code": "ARU"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Salvador",
+        "city.name.zh": "萨尔瓦多",
+        "iata.code": "SSA"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Timbo",
+        "city.name.zh": "廷博",
+        "iata.code": "NVT"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Goiania",
+        "city.name.zh": "戈亚尼亚",
+        "iata.code": "GYN"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Cuiaba",
+        "city.name.zh": "库亚巴",
+        "iata.code": "CGB"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Cacador",
+        "city.name.zh": "卡萨多尔",
+        "iata.code": "CFC"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Brazil",
+        "country.name.zh": "巴西",
+        "country.code": "BR",
+        "city.name": "Uberlandia",
+        "city.name.zh": "乌贝兰迪亚",
+        "iata.code": "UDI"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Belarus",
+        "country.name.zh": "白俄罗斯",
+        "country.code": "BY",
+        "city.name": "Minsk",
+        "city.name.zh": "明斯克",
+        "iata.code": "MSQ"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Bulgaria",
+        "country.name.zh": "保加利亚",
+        "country.code": "BG",
+        "city.name": "Sofia",
+        "city.name.zh": "索非亚",
+        "iata.code": "SOF"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "North Macedonia",
+        "country.name.zh": "北马其顿",
+        "country.code": "MK",
+        "city.name": "Skopje",
+        "city.name.zh": "斯科普里",
+        "iata.code": "SKP"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Belgium",
+        "country.name.zh": "比利时",
+        "country.code": "BE",
+        "city.name": "Brussels",
+        "city.name.zh": "布鲁塞尔",
+        "iata.code": "BRU"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Iceland",
+        "country.name.zh": "冰岛",
+        "country.code": "IS",
+        "city.name": "Reykjavík",
+        "city.name.zh": "雷克雅未克",
+        "iata.code": "KEF"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Puerto Rico",
+        "country.name.zh": "波多黎各",
+        "country.code": "PR",
+        "city.name": "San Juan",
+        "city.name.zh": "圣胡安",
+        "iata.code": "SJU"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Poland",
+        "country.name.zh": "波兰",
+        "country.code": "PL",
+        "city.name": "Warsaw",
+        "city.name.zh": "华沙",
+        "iata.code": "WAW"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Poland",
+        "country.name.zh": "波兰",
+        "country.code": "PL",
+        "city.name": "Wroclaw",
+        "city.name.zh": "弗罗茨瓦夫",
+        "iata.code": "WRO"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Bolivia",
+        "country.name.zh": "玻利维亚",
+        "country.code": "BO",
+        "city.name": "La Paz",
+        "city.name.zh": "拉巴斯",
+        "iata.code": "LPB"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Botswana",
+        "country.name.zh": "博茨瓦纳",
+        "country.code": "BW",
+        "city.name": "Gaborone",
+        "city.name.zh": "哈博罗内",
+        "iata.code": "GBE"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Bhutan",
+        "country.name.zh": "不丹",
+        "country.code": "BT",
+        "city.name": "Thimphu",
+        "city.name.zh": "廷布",
+        "iata.code": "PBH"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Burkina Faso",
+        "country.name.zh": "布基纳法索",
+        "country.code": "BF",
+        "city.name": "Ouagadougou",
+        "city.name.zh": "瓦加杜古",
+        "iata.code": "OUA"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Denmark",
+        "country.name.zh": "丹麦",
+        "country.code": "DK",
+        "city.name": "Copenhagen",
+        "city.name.zh": "哥本哈根",
+        "iata.code": "CPH"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Germany",
+        "country.name.zh": "德国",
+        "country.code": "DE",
+        "city.name": "Berlin",
+        "city.name.zh": "柏林",
+        "iata.code": "TXL"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Germany",
+        "country.name.zh": "德国",
+        "country.code": "DE",
+        "city.name": "Düsseldorf",
+        "city.name.zh": "杜塞尔多夫",
+        "iata.code": "DUS"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Germany",
+        "country.name.zh": "德国",
+        "country.code": "DE",
+        "city.name": "Frankfurt",
+        "city.name.zh": "法兰克福",
+        "iata.code": "FRA"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Germany",
+        "country.name.zh": "德国",
+        "country.code": "DE",
+        "city.name": "Hamburg",
+        "city.name.zh": "汉堡",
+        "iata.code": "HAM"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Germany",
+        "country.name.zh": "德国",
+        "country.code": "DE",
+        "city.name": "Munich",
+        "city.name.zh": "慕尼黑",
+        "iata.code": "MUC"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Germany",
+        "country.name.zh": "德国",
+        "country.code": "DE",
+        "city.name": "Stuttgart",
+        "city.name.zh": "斯图加特",
+        "iata.code": "STR"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Dominican Republic",
+        "country.name.zh": "多米尼加",
+        "country.code": "DO",
+        "city.name": "Santo Domingo",
+        "city.name.zh": "圣多明各",
+        "iata.code": "SDQ"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Dominican Republic",
+        "country.name.zh": "多米尼加",
+        "country.code": "DO",
+        "city.name": "Santiago de los Caballeros",
+        "city.name.zh": "圣地亚哥-德洛斯卡瓦耶罗斯",
+        "iata.code": "STI"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Russia",
+        "country.name.zh": "俄罗斯",
+        "country.code": "RU",
+        "city.name": "Krasnoyarsk",
+        "city.name.zh": "克拉斯诺亚尔斯克",
+        "iata.code": "KJA"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Russia",
+        "country.name.zh": "俄罗斯",
+        "country.code": "RU",
+        "city.name": "Moscow",
+        "city.name.zh": "莫斯科",
+        "iata.code": "DME"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Russia",
+        "country.name.zh": "俄罗斯",
+        "country.code": "RU",
+        "city.name": "Saint Petersburg",
+        "city.name.zh": "圣彼得堡",
+        "iata.code": "LED"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Ecuador",
+        "country.name.zh": "厄瓜多尔",
+        "country.code": "EC",
+        "city.name": "Guayaquil",
+        "city.name.zh": "瓜亚基尔",
+        "iata.code": "GYE"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Ecuador",
+        "country.name.zh": "厄瓜多尔",
+        "country.code": "EC",
+        "city.name": "Quito",
+        "city.name.zh": "基多",
+        "iata.code": "UIO"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "France",
+        "country.name.zh": "法国",
+        "country.code": "FR",
+        "city.name": "Marseille",
+        "city.name.zh": "马赛",
+        "iata.code": "MRS"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "France",
+        "country.name.zh": "法国",
+        "country.code": "FR",
+        "city.name": "Paris",
+        "city.name.zh": "巴黎",
+        "iata.code": "CDG"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "France",
+        "country.name.zh": "法国",
+        "country.code": "FR",
+        "city.name": "Lyon",
+        "city.name.zh": "里昂",
+        "iata.code": "LYS"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "France",
+        "country.name.zh": "法国",
+        "country.code": "FR",
+        "city.name": "Bordeaux",
+        "city.name.zh": "波尔多",
+        "iata.code": "BOD"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "French Polynesia",
+        "country.name.zh": "法属波利尼西亚",
+        "country.code": "PF",
+        "city.name": "Tahiti",
+        "city.name.zh": "塔希提岛",
+        "iata.code": "PPT"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Philippines",
+        "country.name.zh": "菲律宾",
+        "country.code": "PH",
+        "city.name": "Cebu",
+        "city.name.zh": "宿务",
+        "iata.code": "CEB"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Philippines",
+        "country.name.zh": "菲律宾",
+        "country.code": "PH",
+        "city.name": "Manila",
+        "city.name.zh": "马尼拉",
+        "iata.code": "MNL"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Philippines",
+        "country.name.zh": "菲律宾",
+        "country.code": "PH",
+        "city.name": "Cagayan de Oro",
+        "city.name.zh": "卡加延德奥罗",
+        "iata.code": "CGY"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Philippines",
+        "country.name.zh": "菲律宾",
+        "country.code": "PH",
+        "city.name": "Tarlac City",
+        "city.name.zh": "打拉市",
+        "iata.code": "CRK"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Fiji",
+        "country.name.zh": "斐济",
+        "country.code": "FJ",
+        "city.name": "Suva",
+        "city.name.zh": "苏瓦",
+        "iata.code": "SUV"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Finland",
+        "country.name.zh": "芬兰",
+        "country.code": "FI",
+        "city.name": "Helsinki",
+        "city.name.zh": "赫尔辛基",
+        "iata.code": "HEL"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "DR Congo",
+        "country.name.zh": "刚果民主共和国",
+        "country.code": "CD",
+        "city.name": "Kinshasa",
+        "city.name.zh": "金沙萨",
+        "iata.code": "FIH"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Colombia",
+        "country.name.zh": "哥伦比亚",
+        "country.code": "CO",
+        "city.name": "Bogotá",
+        "city.name.zh": "波哥大",
+        "iata.code": "BOG"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Colombia",
+        "country.name.zh": "哥伦比亚",
+        "country.code": "CO",
+        "city.name": "Medellín",
+        "city.name.zh": "麦德林",
+        "iata.code": "MDE"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Colombia",
+        "country.name.zh": "哥伦比亚",
+        "country.code": "CO",
+        "city.name": "Barranquilla",
+        "city.name.zh": "巴兰基亚",
+        "iata.code": "BAQ"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Colombia",
+        "country.name.zh": "哥伦比亚",
+        "country.code": "CO",
+        "city.name": "Cali",
+        "city.name.zh": "卡利",
+        "iata.code": "CLO"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Colombia",
+        "country.name.zh": "哥伦比亚",
+        "country.code": "CO",
+        "city.name": "Bogota",
+        "city.name.zh": "波哥大",
+        "iata.code": "BOG"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "CostaRica",
+        "country.name.zh": "哥斯达黎加",
+        "country.code": "CR",
+        "city.name": "San José",
+        "city.name.zh": "圣何塞",
+        "iata.code": "SJO"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Grenada",
+        "country.name.zh": "格林纳达",
+        "country.code": "GD",
+        "city.name": "St. George's",
+        "city.name.zh": "圣乔治",
+        "iata.code": "GND"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Georgia",
+        "country.name.zh": "格鲁吉亚",
+        "country.code": "GE",
+        "city.name": "Tbilisi",
+        "city.name.zh": "第比利斯",
+        "iata.code": "TBS"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "Guam",
+        "country.name.zh": "关岛",
+        "country.code": "GU",
+        "city.name": "Hagatna",
+        "city.name.zh": "哈加特纳",
+        "iata.code": "GUM"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Guyana",
+        "country.name.zh": "圭亚那",
+        "country.code": "GY",
+        "city.name": "Georgetown",
+        "city.name.zh": "乔治敦",
+        "iata.code": "GEO"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Kazakhstan",
+        "country.name.zh": "哈萨克斯坦",
+        "country.code": "KZ",
+        "city.name": "Almaty",
+        "city.name.zh": "阿拉木图",
+        "iata.code": "ALA"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Kazakhstan",
+        "country.name.zh": "哈萨克斯坦",
+        "country.code": "KZ",
+        "city.name": "Astana",
+        "city.name.zh": "阿斯塔纳",
+        "iata.code": "NQZ"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Kazakhstan",
+        "country.name.zh": "哈萨克斯坦",
+        "country.code": "KZ",
+        "city.name": "Aktobe",
+        "city.name.zh": "阿克托别",
+        "iata.code": "AKX"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "South Korea",
+        "country.name.zh": "韩国",
+        "country.code": "KR",
+        "city.name": "Seoul",
+        "city.name.zh": "首尔",
+        "iata.code": "ICN"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Netherlands",
+        "country.name.zh": "荷兰",
+        "country.code": "NL",
+        "city.name": "Amsterdam",
+        "city.name.zh": "阿姆斯特丹",
+        "iata.code": "AMS"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Honduras",
+        "country.name.zh": "洪都拉斯",
+        "country.code": "HN",
+        "city.name": "Tegucigalpa",
+        "city.name.zh": "特古西加尔巴",
+        "iata.code": "TGU"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Honduras",
+        "country.name.zh": "洪都拉斯",
+        "country.code": "HN",
+        "city.name": "San Pedro Sula",
+        "city.name.zh": "圣佩德罗苏拉",
+        "iata.code": "SAP"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Djibouti",
+        "country.name.zh": "吉布提",
+        "country.code": "DJ",
+        "city.name": "Djibouti City",
+        "city.name.zh": "吉布提市",
+        "iata.code": "JIB"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Djibouti",
+        "country.name.zh": "吉布提",
+        "country.code": "DJ",
+        "city.name": "Djibouti",
+        "city.name.zh": "吉布提",
+        "iata.code": "JIB"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Kyrgyzstan",
+        "country.name.zh": "吉尔吉斯斯坦",
+        "country.code": "KG",
+        "city.name": "Bishkek",
+        "city.name.zh": "比什凯克",
+        "iata.code": "FRU"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Calgary",
+        "city.name.zh": "卡尔加里",
+        "iata.code": "YYC"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Montréal",
+        "city.name.zh": "蒙特利尔",
+        "iata.code": "YUL"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Ottawa",
+        "city.name.zh": "渥太华",
+        "iata.code": "YOW"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "San Jose",
+        "city.name.zh": "萨斯卡通",
+        "iata.code": "YXE"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Toronto",
+        "city.name.zh": "多伦多",
+        "iata.code": "YYZ"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Vancouver",
+        "city.name.zh": "温哥华",
+        "iata.code": "YVR"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Winnipeg",
+        "city.name.zh": "温尼伯",
+        "iata.code": "YWG"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Canada",
+        "country.name.zh": "加拿大",
+        "country.code": "CA",
+        "city.name": "Halifax",
+        "city.name.zh": "哈利法斯",
+        "iata.code": "YHZ"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Ghana",
+        "country.name.zh": "加纳",
+        "country.code": "GH",
+        "city.name": "Accra",
+        "city.name.zh": "阿克拉",
+        "iata.code": "ACC"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Cambodia",
+        "country.name.zh": "柬埔寨",
+        "country.code": "KH",
+        "city.name": "Phnom Penh",
+        "city.name.zh": "金边",
+        "iata.code": "PNH"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Czech Republic",
+        "country.name.zh": "捷克共和国",
+        "country.code": "CZ",
+        "city.name": "Prague",
+        "city.name.zh": "布拉格",
+        "iata.code": "PRG"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Zimbabwe",
+        "country.name.zh": "津巴布韦",
+        "country.code": "ZW",
+        "city.name": "Harare",
+        "city.name.zh": "哈拉雷",
+        "iata.code": "HRE"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Qatar",
+        "country.name.zh": "卡塔尔",
+        "country.code": "QA",
+        "city.name": "Doha",
+        "city.name.zh": "多哈",
+        "iata.code": "DOH"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Ivory Coast",
+        "country.name.zh": "科特迪瓦",
+        "country.code": "CI",
+        "city.name": "Yamoussoukro",
+        "city.name.zh": "亚穆苏克罗",
+        "iata.code": "ASK"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Ivory Coast",
+        "country.name.zh": "科特迪瓦",
+        "country.code": "CI",
+        "city.name": "Abidjan",
+        "city.name.zh": "阿比让",
+        "iata.code": "ABJ"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Kuwait",
+        "country.name.zh": "科威特",
+        "country.code": "KW",
+        "city.name": "Kuwait City",
+        "city.name.zh": "科威特城",
+        "iata.code": "KWI"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Croatia",
+        "country.name.zh": "克罗地亚",
+        "country.code": "HR",
+        "city.name": "Zagreb",
+        "city.name.zh": "萨格勒布",
+        "iata.code": "ZAG"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Kenya",
+        "country.name.zh": "肯尼亚",
+        "country.code": "KE",
+        "city.name": "Mombasa",
+        "city.name.zh": "蒙巴萨",
+        "iata.code": "MBA"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Kenya",
+        "country.name.zh": "肯尼亚",
+        "country.code": "KE",
+        "city.name": "Nairobi",
+        "city.name.zh": "内罗毕",
+        "iata.code": "NBO"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Latvia",
+        "country.name.zh": "拉脱维亚",
+        "country.code": "LV",
+        "city.name": "Riga",
+        "city.name.zh": "里加",
+        "iata.code": "RIX"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Laos",
+        "country.name.zh": "老挝",
+        "country.code": "LA",
+        "city.name": "Vientiane",
+        "city.name.zh": "万象",
+        "iata.code": "VTE"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Lebanon",
+        "country.name.zh": "黎巴嫩",
+        "country.code": "LB",
+        "city.name": "Beirut",
+        "city.name.zh": "贝鲁特",
+        "iata.code": "BEY"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Lithuania",
+        "country.name.zh": "立陶宛",
+        "country.code": "LT",
+        "city.name": "Vilnius",
+        "city.name.zh": "维尔纽斯",
+        "iata.code": "VNO"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Réunion",
+        "country.name.zh": "留尼汪",
+        "country.code": "RE",
+        "city.name": "Saint-Denis",
+        "city.name.zh": "圣但尼",
+        "iata.code": "RUN"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Luxembourg",
+        "country.name.zh": "卢森堡",
+        "country.code": "LU",
+        "city.name": "Luxembourg City",
+        "city.name.zh": "卢森堡市",
+        "iata.code": "LUX"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Rwanda",
+        "country.name.zh": "卢旺达",
+        "country.code": "RW",
+        "city.name": "Kigali",
+        "city.name.zh": "基加利",
+        "iata.code": "KGL"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Romania",
+        "country.name.zh": "罗马尼亚",
+        "country.code": "RO",
+        "city.name": "Bucharest",
+        "city.name.zh": "布加勒斯特",
+        "iata.code": "OTP"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Madagascar",
+        "country.name.zh": "马达加斯加",
+        "country.code": "MG",
+        "city.name": "Antananarivo",
+        "city.name.zh": "塔那那利佛",
+        "iata.code": "TNR"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Maldives",
+        "country.name.zh": "马尔代夫",
+        "country.code": "MV",
+        "city.name": "Malé",
+        "city.name.zh": "马累",
+        "iata.code": "MLE"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Maldives",
+        "country.name.zh": "马尔代夫",
+        "country.code": "MV",
+        "city.name": "Male",
+        "city.name.zh": "马累",
+        "iata.code": "MLE"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Malta",
+        "country.name.zh": "马耳他",
+        "country.code": "MT",
+        "city.name": "Santa Venera",
+        "city.name.zh": "圣维内拉",
+        "iata.code": "MLA"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Malawi",
+        "country.name.zh": "马拉维",
+        "country.code": "MW",
+        "city.name": "Lilongwe",
+        "city.name.zh": "利隆圭",
+        "iata.code": "LLW"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Malaysia",
+        "country.name.zh": "马来西亚",
+        "country.code": "MY",
+        "city.name": "Johor Bahru",
+        "city.name.zh": "新山",
+        "iata.code": "JHB"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Malaysia",
+        "country.name.zh": "马来西亚",
+        "country.code": "MY",
+        "city.name": "Kuala Lumpur",
+        "city.name.zh": "吉隆坡",
+        "iata.code": "KUL"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Malaysia",
+        "country.name.zh": "马来西亚",
+        "country.code": "MY",
+        "city.name": "Kuching",
+        "city.name.zh": "古晋",
+        "iata.code": "KCH"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Mauritius",
+        "country.name.zh": "毛里求斯",
+        "country.code": "MU",
+        "city.name": "Port Louis",
+        "city.name.zh": "路易港",
+        "iata.code": "MRU"
+    },
+    {
         "continent.name": "North America",
         "continent.name.zh": "北美",
         "country.name": "United States",
@@ -38,16 +1668,6 @@
         "city.name": "Buffalo",
         "city.name.zh": "布法罗",
         "iata.code": "BUF"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "Calgary",
-        "city.name.zh": "卡尔加里",
-        "iata.code": "YYC"
     },
     {
         "continent.name": "North America",
@@ -182,16 +1802,6 @@
     {
         "continent.name": "North America",
         "continent.name.zh": "北美",
-        "country.name": "Mexico",
-        "country.name.zh": "墨西哥",
-        "country.code": "MX",
-        "city.name": "Mexico City",
-        "city.name.zh": "墨西哥城",
-        "iata.code": "MEX"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
         "country.name": "United States",
         "country.name.zh": "美国",
         "country.code": "US",
@@ -208,16 +1818,6 @@
         "city.name": "Minneapolis",
         "city.name.zh": "明尼阿波利斯",
         "iata.code": "MSP"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "Montréal",
-        "city.name.zh": "蒙特利尔",
-        "iata.code": "YUL"
     },
     {
         "continent.name": "North America",
@@ -262,16 +1862,6 @@
     {
         "continent.name": "North America",
         "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "Ottawa",
-        "city.name.zh": "渥太华",
-        "iata.code": "YOW"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
         "country.name": "United States",
         "country.name.zh": "美国",
         "country.code": "US",
@@ -308,16 +1898,6 @@
         "city.name": "Portland",
         "city.name.zh": "波特兰",
         "iata.code": "PDX"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Mexico",
-        "country.name.zh": "墨西哥",
-        "country.code": "MX",
-        "city.name": "Queretaro",
-        "city.name.zh": "克雷塔罗",
-        "iata.code": "QRO"
     },
     {
         "continent.name": "North America",
@@ -372,16 +1952,6 @@
     {
         "continent.name": "North America",
         "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "San Jose",
-        "city.name.zh": "萨斯卡通",
-        "iata.code": "YXE"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
         "country.name": "United States",
         "country.name.zh": "美国",
         "country.code": "US",
@@ -422,52 +1992,12 @@
     {
         "continent.name": "North America",
         "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "Toronto",
-        "city.name.zh": "多伦多",
-        "iata.code": "YYZ"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "Vancouver",
-        "city.name.zh": "温哥华",
-        "iata.code": "YVR"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "Winnipeg",
-        "city.name.zh": "温尼伯",
-        "iata.code": "YWG"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
         "country.name": "United States",
         "country.name.zh": "美国",
         "country.code": "US",
         "city.name": "San Francisco",
         "city.name.zh": "旧金山",
         "iata.code": "SFO"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Jamaica",
-        "country.name.zh": "牙买加",
-        "country.code": "US",
-        "city.name": "Kingston",
-        "city.name.zh": "金斯敦",
-        "iata.code": "KIN"
     },
     {
         "continent.name": "North America",
@@ -498,16 +2028,6 @@
         "city.name": "Albuquerque",
         "city.name.zh": "阿尔伯克基",
         "iata.code": "ABQ"
-    },
-    {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Mexico",
-        "country.name.zh": "墨西哥",
-        "country.code": "MX",
-        "city.name": "Guadalajara",
-        "city.name.zh": "瓜达拉哈拉",
-        "iata.code": "GDL"
     },
     {
         "continent.name": "North America",
@@ -570,24 +2090,954 @@
         "iata.code": "ANC"
     },
     {
-        "continent.name": "North America",
-        "continent.name.zh": "北美",
-        "country.name": "Canada",
-        "country.name.zh": "加拿大",
-        "country.code": "CA",
-        "city.name": "Halifax",
-        "city.name.zh": "哈利法斯",
-        "iata.code": "YHZ"
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Mongolia",
+        "country.name.zh": "蒙古",
+        "country.code": "MN",
+        "city.name": "Ulaanbaatar",
+        "city.name.zh": "乌兰巴托",
+        "iata.code": "ULN"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Bangladesh",
+        "country.name.zh": "孟加拉",
+        "country.code": "BD",
+        "city.name": "Chittagong",
+        "city.name.zh": "吉大港",
+        "iata.code": "CGP"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Bangladesh",
+        "country.name.zh": "孟加拉",
+        "country.code": "BD",
+        "city.name": "Dhaka",
+        "city.name.zh": "达卡",
+        "iata.code": "DAC"
     },
     {
         "continent.name": "Latin America & the Caribbean",
         "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Brazil",
-        "country.name.zh": "巴西",
-        "country.code": "BR",
-        "city.name": "Americana",
-        "city.name.zh": "阿梅里卡纳",
-        "iata.code": "QWJ"
+        "country.name": "Peru",
+        "country.name.zh": "秘鲁",
+        "country.code": "PE",
+        "city.name": "Lima",
+        "city.name.zh": "利马",
+        "iata.code": "LIM"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Moldova",
+        "country.name.zh": "摩尔多瓦",
+        "country.code": "MD",
+        "city.name": "Chișinău",
+        "city.name.zh": "基希讷乌",
+        "iata.code": "KIV"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Mozambique",
+        "country.name.zh": "莫桑比克",
+        "country.code": "MZ",
+        "city.name": "Maputo",
+        "city.name.zh": "马普托",
+        "iata.code": "MPM"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Mexico",
+        "country.name.zh": "墨西哥",
+        "country.code": "MX",
+        "city.name": "Mexico City",
+        "city.name.zh": "墨西哥城",
+        "iata.code": "MEX"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Mexico",
+        "country.name.zh": "墨西哥",
+        "country.code": "MX",
+        "city.name": "Queretaro",
+        "city.name.zh": "克雷塔罗",
+        "iata.code": "QRO"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Mexico",
+        "country.name.zh": "墨西哥",
+        "country.code": "MX",
+        "city.name": "Guadalajara",
+        "city.name.zh": "瓜达拉哈拉",
+        "iata.code": "GDL"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Namibia",
+        "country.name.zh": "纳米比亚",
+        "country.code": "NA",
+        "city.name": "Windhoek",
+        "city.name.zh": "温得和克",
+        "iata.code": "WDH"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "South Africa",
+        "country.name.zh": "南非",
+        "country.code": "ZA",
+        "city.name": "Cape Town",
+        "city.name.zh": "开普敦",
+        "iata.code": "CPT"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "South Africa",
+        "country.name.zh": "南非",
+        "country.code": "ZA",
+        "city.name": "Durban",
+        "city.name.zh": "德班",
+        "iata.code": "DUR"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "South Africa",
+        "country.name.zh": "南非",
+        "country.code": "ZA",
+        "city.name": "Johannesburg",
+        "city.name.zh": "约翰内斯堡",
+        "iata.code": "JNB"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Nepal",
+        "country.name.zh": "尼泊尔",
+        "country.code": "NP",
+        "city.name": "Kathmandu",
+        "city.name.zh": "加德满都",
+        "iata.code": "KTM"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Nigeria",
+        "country.name.zh": "尼日利亚",
+        "country.code": "NG",
+        "city.name": "Lagos",
+        "city.name.zh": "拉各斯",
+        "iata.code": "LOS"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Norway",
+        "country.name.zh": "挪威",
+        "country.code": "NO",
+        "city.name": "Oslo",
+        "city.name.zh": "奥斯陆",
+        "iata.code": "OSL"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Portugal",
+        "country.name.zh": "葡萄牙",
+        "country.code": "PT",
+        "city.name": "Lisbon",
+        "city.name.zh": "里斯本",
+        "iata.code": "LIS"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Japan",
+        "country.name.zh": "日本",
+        "country.code": "JP",
+        "city.name": "Fukuoka",
+        "city.name.zh": "福冈",
+        "iata.code": "FUK"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Japan",
+        "country.name.zh": "日本",
+        "country.code": "JP",
+        "city.name": "Naha",
+        "city.name.zh": "那霸",
+        "iata.code": "OKA"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Japan",
+        "country.name.zh": "日本",
+        "country.code": "JP",
+        "city.name": "Osaka",
+        "city.name.zh": "大阪",
+        "iata.code": "KIX"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Japan",
+        "country.name.zh": "日本",
+        "country.code": "JP",
+        "city.name": "Tokyo",
+        "city.name.zh": "东京",
+        "iata.code": "NRT"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Sweden",
+        "country.name.zh": "瑞典",
+        "country.code": "SE",
+        "city.name": "Gothenburg",
+        "city.name.zh": "哥德堡",
+        "iata.code": "GOT"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Sweden",
+        "country.name.zh": "瑞典",
+        "country.code": "SE",
+        "city.name": "Stockholm",
+        "city.name.zh": "斯德哥尔摩",
+        "iata.code": "ARN"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Switzerland",
+        "country.name.zh": "瑞士",
+        "country.code": "CH",
+        "city.name": "Geneva",
+        "city.name.zh": "日内瓦",
+        "iata.code": "GVA"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Switzerland",
+        "country.name.zh": "瑞士",
+        "country.code": "CH",
+        "city.name": "Zurich",
+        "city.name.zh": "苏黎世",
+        "iata.code": "ZRH"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Serbia",
+        "country.name.zh": "塞尔维亚",
+        "country.code": "RS",
+        "city.name": "Belgrade",
+        "city.name.zh": "贝尔格莱德",
+        "iata.code": "BEG"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Senegal",
+        "country.name.zh": "塞内加尔",
+        "country.code": "SN",
+        "city.name": "Dakar",
+        "city.name.zh": "达喀尔",
+        "iata.code": "DKR"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Cyprus",
+        "country.name.zh": "塞浦路斯",
+        "country.code": "CY",
+        "city.name": "Nicosia",
+        "city.name.zh": "尼科西亚",
+        "iata.code": "LCA"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Saudi Arabia",
+        "country.name.zh": "沙特阿拉伯",
+        "country.code": "SA",
+        "city.name": "Dammam",
+        "city.name.zh": "达曼",
+        "iata.code": "DMM"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Saudi Arabia",
+        "country.name.zh": "沙特阿拉伯",
+        "country.code": "SA",
+        "city.name": "Jeddah",
+        "city.name.zh": "吉达",
+        "iata.code": "JED"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Saudi Arabia",
+        "country.name.zh": "沙特阿拉伯",
+        "country.code": "SA",
+        "city.name": "Riyadh",
+        "city.name.zh": "利雅得",
+        "iata.code": "RUH"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Sri Lanka",
+        "country.name.zh": "斯里兰卡",
+        "country.code": "LK",
+        "city.name": "Colombo",
+        "city.name.zh": "科伦坡",
+        "iata.code": "CMB"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Slovakia",
+        "country.name.zh": "斯洛伐克",
+        "country.code": "SK",
+        "city.name": "Bratislava",
+        "city.name.zh": "布拉迪斯拉发",
+        "iata.code": "BTS"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Suriname",
+        "country.name.zh": "苏里南",
+        "country.code": "SR",
+        "city.name": "Paramaribo",
+        "city.name.zh": "帕拉马里博",
+        "iata.code": "PBM"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Thailand",
+        "country.name.zh": "泰国",
+        "country.code": "TH",
+        "city.name": "Bangkok",
+        "city.name.zh": "曼谷",
+        "iata.code": "BKK"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Thailand",
+        "country.name.zh": "泰国",
+        "country.code": "TH",
+        "city.name": "Surat Thani",
+        "city.name.zh": "素叻他尼",
+        "iata.code": "URT"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Thailand",
+        "country.name.zh": "泰国",
+        "country.code": "TH",
+        "city.name": "Chiang Mai",
+        "city.name.zh": "清迈",
+        "iata.code": "CNX"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Tanzania",
+        "country.name.zh": "坦桑尼亚",
+        "country.code": "TZ",
+        "city.name": "Dar Es Salaam",
+        "city.name.zh": "达累斯萨拉姆",
+        "iata.code": "DAR"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Tanzania",
+        "country.name.zh": "坦桑尼亚",
+        "country.code": "TZ",
+        "city.name": "Dar es Salaam",
+        "city.name.zh": "达累斯萨拉姆",
+        "iata.code": "DAR"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Trinidadand Tobago",
+        "country.name.zh": "特立尼达和多巴哥",
+        "country.code": "TT",
+        "city.name": "Port of Spain",
+        "city.name.zh": "西班牙港",
+        "iata.code": "POS"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Tunisia",
+        "country.name.zh": "突尼斯",
+        "country.code": "TN",
+        "city.name": "Tunis",
+        "city.name.zh": "突尼斯",
+        "iata.code": "TUN"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Turkey",
+        "country.name.zh": "土耳其",
+        "country.code": "TR",
+        "city.name": "Istanbul",
+        "city.name.zh": "伊斯坦布尔",
+        "iata.code": "IST"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Turkey",
+        "country.name.zh": "土耳其",
+        "country.code": "TR",
+        "city.name": "Izmir",
+        "city.name.zh": "伊兹密尔",
+        "iata.code": "ADB"
+    },
+    {
+        "continent.name": "Latin America & the Caribbean",
+        "continent.name.zh": "拉丁美洲与加勒比地区",
+        "country.name": "Guatemala",
+        "country.name.zh": "危地马拉",
+        "country.code": "GT",
+        "city.name": "Guatemala City",
+        "city.name.zh": "危地马拉城",
+        "iata.code": "GUA"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Brunei",
+        "country.name.zh": "文莱",
+        "country.code": "BN",
+        "city.name": "Bandar Seri Begawan",
+        "city.name.zh": "斯里巴加湾市",
+        "iata.code": "BWN"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Uganda",
+        "country.name.zh": "乌干达",
+        "country.code": "UG",
+        "city.name": "Kampala",
+        "city.name.zh": "坎帕拉",
+        "iata.code": "EBB"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Ukraine",
+        "country.name.zh": "乌克兰",
+        "country.code": "UA",
+        "city.name": "Kyiv",
+        "city.name.zh": "基辅",
+        "iata.code": "KBP"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Spain",
+        "country.name.zh": "西班牙",
+        "country.code": "ES",
+        "city.name": "Barcelona",
+        "city.name.zh": "巴塞罗那",
+        "iata.code": "BCN"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Spain",
+        "country.name.zh": "西班牙",
+        "country.code": "ES",
+        "city.name": "Madrid",
+        "city.name.zh": "马德里",
+        "iata.code": "MAD"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Greece",
+        "country.name.zh": "希腊",
+        "country.code": "GR",
+        "city.name": "Athens",
+        "city.name.zh": "雅典",
+        "iata.code": "ATH"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Greece",
+        "country.name.zh": "希腊",
+        "country.code": "GR",
+        "city.name": "Thessaloniki",
+        "city.name.zh": "塞萨洛尼基",
+        "iata.code": "SKG"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Singapore",
+        "country.name.zh": "新加坡",
+        "country.code": "SG",
+        "city.name": "Singapore",
+        "city.name.zh": "新加坡",
+        "iata.code": "SIN"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "New Caledonia",
+        "country.name.zh": "新喀里多尼亚",
+        "country.code": "NC",
+        "city.name": "Noumea",
+        "city.name.zh": "努美阿",
+        "iata.code": "NOU"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "New Zealand",
+        "country.name.zh": "新西兰",
+        "country.code": "NZ",
+        "city.name": "Auckland",
+        "city.name.zh": "奥克兰",
+        "iata.code": "AKL"
+    },
+    {
+        "continent.name": "Oceania",
+        "continent.name.zh": "大洋洲",
+        "country.name": "New Zealand",
+        "country.name.zh": "新西兰",
+        "country.code": "NZ",
+        "city.name": "Christchurch",
+        "city.name.zh": "基督城",
+        "iata.code": "CHC"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Hungary",
+        "country.name.zh": "匈牙利",
+        "country.code": "HU",
+        "city.name": "Budapest",
+        "city.name.zh": "布达佩斯",
+        "iata.code": "BUD"
+    },
+    {
+        "continent.name": "North America",
+        "continent.name.zh": "北美",
+        "country.name": "Jamaica",
+        "country.name.zh": "牙买加",
+        "country.code": "JM",
+        "city.name": "Kingston",
+        "city.name.zh": "金斯敦",
+        "iata.code": "KIN"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Armenia",
+        "country.name.zh": "亚美尼亚",
+        "country.code": "AM",
+        "city.name": "Yerevan",
+        "city.name.zh": "埃里温",
+        "iata.code": "EVN"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Iraq",
+        "country.name.zh": "伊拉克",
+        "country.code": "IQ",
+        "city.name": "Baghdad",
+        "city.name.zh": "巴格达",
+        "iata.code": "BGW"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Iraq",
+        "country.name.zh": "伊拉克",
+        "country.code": "IQ",
+        "city.name": "Basra",
+        "city.name.zh": "巴士拉",
+        "iata.code": "BSR"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Iraq",
+        "country.name.zh": "伊拉克",
+        "country.code": "IQ",
+        "city.name": "Erbil",
+        "city.name.zh": "埃尔比勒",
+        "iata.code": "EBL"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Iraq",
+        "country.name.zh": "伊拉克",
+        "country.code": "IQ",
+        "city.name": "Najaf",
+        "city.name.zh": "纳杰夫",
+        "iata.code": "NJF"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Iraq",
+        "country.name.zh": "伊拉克",
+        "country.code": "IQ",
+        "city.name": "Nasiriyah",
+        "city.name.zh": "纳西里耶",
+        "iata.code": "XNH"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Iraq",
+        "country.name.zh": "伊拉克",
+        "country.code": "IQ",
+        "city.name": "Sulaymaniyah",
+        "city.name.zh": "苏莱曼尼亚",
+        "iata.code": "ISU"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Israel",
+        "country.name.zh": "以色列",
+        "country.code": "IL",
+        "city.name": "Haifa",
+        "city.name.zh": "海法",
+        "iata.code": "HFA"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Israel",
+        "country.name.zh": "以色列",
+        "country.code": "IL",
+        "city.name": "Tel Aviv",
+        "city.name.zh": "特拉维夫",
+        "iata.code": "TLV"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Italy",
+        "country.name.zh": "意大利",
+        "country.code": "IT",
+        "city.name": "Milan",
+        "city.name.zh": "米兰",
+        "iata.code": "MXP"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Italy",
+        "country.name.zh": "意大利",
+        "country.code": "IT",
+        "city.name": "Palermo",
+        "city.name.zh": "巴勒莫",
+        "iata.code": "PMO"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "Italy",
+        "country.name.zh": "意大利",
+        "country.code": "IT",
+        "city.name": "Rome",
+        "city.name.zh": "罗马",
+        "iata.code": "FCO"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Ahmedabad",
+        "city.name.zh": "艾哈迈达巴德",
+        "iata.code": "AMD"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Bangalore",
+        "city.name.zh": "班加罗尔",
+        "iata.code": "BLR"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Chandigarh",
+        "city.name.zh": "昌迪加尔",
+        "iata.code": "IXC"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Chennai",
+        "city.name.zh": "金奈",
+        "iata.code": "MAA"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Agra",
+        "city.name.zh": "阿格拉",
+        "iata.code": "AGR"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Coimbatore",
+        "city.name.zh": "哥印拜陀",
+        "iata.code": "CJB"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Hyderabad",
+        "city.name.zh": "海得拉巴",
+        "iata.code": "HYD"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Kanpur",
+        "city.name.zh": "坎普尔",
+        "iata.code": "KNU"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Kolkata",
+        "city.name.zh": "加尔各答",
+        "iata.code": "CCU"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Mumbai",
+        "city.name.zh": "孟买",
+        "iata.code": "BOM"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Nagpur",
+        "city.name.zh": "那格浦尔",
+        "iata.code": "NAG"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "New Delhi",
+        "city.name.zh": "新德里",
+        "iata.code": "DEL"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Patna",
+        "city.name.zh": "巴特那",
+        "iata.code": "PAT"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Kochi",
+        "city.name.zh": "科钦",
+        "iata.code": "COK"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "India",
+        "country.name.zh": "印度",
+        "country.code": "IN",
+        "city.name": "Kannur",
+        "city.name.zh": "坎努尔",
+        "iata.code": "CNN"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Indonesia",
+        "country.name.zh": "印度尼西亚",
+        "country.code": "ID",
+        "city.name": "Jakarta",
+        "city.name.zh": "雅加达",
+        "iata.code": "CGK"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Indonesia",
+        "country.name.zh": "印度尼西亚",
+        "country.code": "ID",
+        "city.name": "Yogyakarta",
+        "city.name.zh": "日惹",
+        "iata.code": "JOG"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Indonesia",
+        "country.name.zh": "印度尼西亚",
+        "country.code": "ID",
+        "city.name": "Denpasar",
+        "city.name.zh": "登巴萨",
+        "iata.code": "DPS"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Indonesia",
+        "country.name.zh": "印度尼西亚",
+        "country.code": "ID",
+        "city.name": "Malang",
+        "city.name.zh": "玛琅",
+        "iata.code": "MLG"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "United Kingdom",
+        "country.name.zh": "英国",
+        "country.code": "GB",
+        "city.name": "London",
+        "city.name.zh": "伦敦",
+        "iata.code": "LHR"
+    },
+    {
+        "continent.name": "Europe",
+        "continent.name.zh": "欧洲",
+        "country.name": "United Kingdom",
+        "country.name.zh": "英国",
+        "country.code": "GB",
+        "city.name": "Manchester",
+        "city.name.zh": "曼彻斯特",
+        "iata.code": "MAN"
+    },
+    {
+        "continent.name": "Middle East",
+        "continent.name.zh": "中东",
+        "country.name": "Jordan",
+        "country.name.zh": "约旦",
+        "country.code": "JO",
+        "city.name": "Amman",
+        "city.name.zh": "安曼",
+        "iata.code": "AMM"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Vietnam",
+        "country.name.zh": "越南",
+        "country.code": "VN",
+        "city.name": "Hanoi",
+        "city.name.zh": "河内",
+        "iata.code": "HAN"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Vietnam",
+        "country.name.zh": "越南",
+        "country.code": "VN",
+        "city.name": "Ho Chi Minh City",
+        "city.name.zh": "胡志明市",
+        "iata.code": "SGN"
+    },
+    {
+        "continent.name": "Asia",
+        "continent.name.zh": "亚洲",
+        "country.name": "Vietnam",
+        "country.name.zh": "越南",
+        "country.code": "VN",
+        "city.name": "Da Nang",
+        "city.name.zh": "岘港",
+        "iata.code": "DAD"
+    },
+    {
+        "continent.name": "Africa",
+        "continent.name.zh": "非洲",
+        "country.name": "Zambia",
+        "country.name.zh": "赞比亚",
+        "country.code": "ZM",
+        "city.name": "Lusaka",
+        "city.name.zh": "卢萨卡",
+        "iata.code": "LUN"
     },
     {
         "continent.name": "Latin America & the Caribbean",
@@ -602,2851 +3052,401 @@
     {
         "continent.name": "Latin America & the Caribbean",
         "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Paraguay",
-        "country.name.zh": "巴拉圭",
-        "country.code": "PY",
-        "city.name": "Asunción",
-        "city.name.zh": "亚松森",
-        "iata.code": "ASU"
+        "country.name": "Chile",
+        "country.name.zh": "智利",
+        "country.code": "CL",
+        "city.name": "Santiago",
+        "city.name.zh": "圣地亚哥",
+        "iata.code": "SCL"
     },
     {
         "continent.name": "Latin America & the Caribbean",
         "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Brazil",
-        "country.name.zh": "巴西",
-        "country.code": "BR",
-        "city.name": "Belém",
-        "city.name.zh": "贝伦",
-        "iata.code": "BEL"
+        "country.name": "Chile",
+        "country.name.zh": "智利",
+        "country.code": "CL",
+        "city.name": "Concepción",
+        "city.name.zh": "康塞普西翁",
+        "iata.code": "CCP"
     },
     {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Brazil",
-        "country.name.zh": "巴西",
-        "country.code": "BR",
-        "city.name": "Belém",
-        "city.name.zh": "贝洛奥里藏特",
-        "iata.code": "CNF"
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Brazil",
-        "country.name.zh": "巴西",
-        "country.code": "BR",
-        "city.name": "Blumenau",
-        "city.name.zh": "布鲁梅瑙",
-        "iata.code": "BNU"
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Colombia",
-        "country.name.zh": "哥伦比亚",
-        "country.code": "CO",
-        "city.name": "Bogotá",
-        "city.name.zh": "波哥大",
-        "iata.code": "BOG"
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Brasilia",
-        "country.name.zh": "巴西利亚",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "BSB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Buenos Aires",
-        "country.name.zh": "布宜诺斯艾利斯",
-        "country.code": "Argentina",
-        "city.name": "阿根廷",
-        "city.name.zh": "EZE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Caçador",
-        "country.name.zh": "卡萨多尔",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "CFC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Campinas",
-        "country.name.zh": "坎皮纳斯",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "VCP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Córdoba",
-        "country.name.zh": "科尔多瓦",
-        "country.code": "Argentina",
-        "city.name": "阿根廷",
-        "city.name.zh": "COR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Curitiba",
-        "country.name.zh": "库里蒂巴",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "CWB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Florianopolis",
-        "country.name.zh": "弗洛里亚诺波利斯",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "FLN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Fortaleza",
-        "country.name.zh": "福塔雷萨",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "FOR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Georgetown",
-        "country.name.zh": "乔治敦",
-        "country.code": "Guyana",
-        "city.name": "圭亚那",
-        "city.name.zh": "GEO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Goiânia",
-        "country.name.zh": "戈亚尼亚",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "GYN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Guatemala City",
-        "country.name.zh": "危地马拉城",
-        "country.code": "Guatemala",
-        "city.name": "危地马拉",
-        "city.name.zh": "GUA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Guayaquil",
-        "country.name.zh": "瓜亚基尔",
-        "country.code": "Ecuador",
-        "city.name": "厄瓜多尔",
-        "city.name.zh": "GYE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Joinville",
-        "country.name.zh": "若因维利",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "JOI",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Juazeiro do Norte",
-        "country.name.zh": "北茹阿泽鲁",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "JDO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Lima",
-        "country.name.zh": "利马",
-        "country.code": "Peru",
-        "city.name": "秘鲁",
-        "city.name.zh": "LIM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Manaus",
-        "country.name.zh": "马瑙斯",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "MAO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Medellín",
-        "country.name.zh": "麦德林",
-        "country.code": "Colombia",
-        "city.name": "哥伦比亚",
-        "city.name.zh": "MDE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Neuquén",
-        "country.name.zh": "内乌肯",
-        "country.code": "Argentina",
-        "city.name": "阿根廷",
-        "city.name.zh": "NQN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Panama City",
-        "country.name.zh": "巴拿马城",
-        "country.code": "Panama",
-        "city.name": "巴拿马",
-        "city.name.zh": "PTY",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Paramaribo",
-        "country.name.zh": "帕拉马里博",
-        "country.code": "Suriname",
-        "city.name": "苏里南",
-        "city.name.zh": "PBM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Porto Alegre",
-        "country.name.zh": "阿雷格里港",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "POA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Quito",
-        "country.name.zh": "基多",
-        "country.code": "Ecuador",
-        "city.name": "厄瓜多尔",
-        "city.name.zh": "UIO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Recife",
-        "country.name.zh": "累西腓",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "REC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Ribeirao Preto",
-        "country.name.zh": "里贝朗普雷图",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "RAO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Rio de Janeiro",
-        "country.name.zh": "里约热内卢",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "GIG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "San José",
-        "country.name.zh": "圣何塞",
-        "country.code": "CostaRica",
-        "city.name": "哥斯达黎加",
-        "city.name.zh": "SJO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Santiago",
-        "country.name.zh": "圣地亚哥",
-        "country.code": "Chile",
-        "city.name": "智利",
-        "city.name.zh": "SCL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Santo Domingo",
-        "country.name.zh": "圣多明各",
-        "country.code": "Dominican Republic",
-        "city.name": "多米尼加",
-        "city.name.zh": "SDQ",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "São José do Rio Preto",
-        "country.name.zh": "普雷图河畔圣若泽",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "SJP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "São José dos Campos",
-        "country.name.zh": "圣若泽-杜斯坎普斯",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "SJK",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "São Paulo",
-        "country.name.zh": "圣保罗",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "GRU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Sorocaba",
-        "country.name.zh": "索罗卡巴",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "SOD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Tegucigalpa",
-        "country.name.zh": "特古西加尔巴",
-        "country.code": "Honduras",
-        "city.name": "洪都拉斯",
-        "city.name.zh": "TGU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Timbó",
-        "country.name.zh": "廷博",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "NVT",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Uberlândia",
-        "country.name.zh": "乌贝兰迪亚",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "UDI",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Vitoria",
-        "country.name.zh": "维多利亚",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "VIX",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Campos dos Goytacazes",
-        "country.name.zh": "坎普斯-杜斯戈伊塔卡齐斯",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "CAW",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Chapeco",
-        "country.name.zh": "沙佩科",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "XAP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Bridgetown",
-        "country.name.zh": "布里奇敦",
-        "country.code": "Barbados",
-        "city.name": "巴巴多斯",
-        "city.name.zh": "BGI",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "St. George's",
-        "country.name.zh": "圣乔治",
-        "country.code": "Grenada",
-        "city.name": "格林纳达",
-        "city.name.zh": "GND",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Santiago de los Caballeros",
-        "country.name.zh": "圣地亚哥-德洛斯卡瓦耶罗斯",
-        "country.code": "Dominican Republic",
-        "city.name": "多米尼加",
-        "city.name.zh": "STI",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "La Paz",
-        "country.name.zh": "拉巴斯",
-        "country.code": "Bolivia",
-        "city.name": "玻利维亚",
-        "city.name.zh": "LPB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "San Juan",
-        "country.name.zh": "圣胡安",
-        "country.code": "Puerto Rico",
-        "city.name": "波多黎各",
-        "city.name.zh": "SJU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Barranquilla",
-        "country.name.zh": "巴兰基亚",
-        "country.code": "Colombia",
-        "city.name": "哥伦比亚",
-        "city.name.zh": "BAQ",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Palmas",
-        "country.name.zh": "帕尔马斯",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "PMW",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Aracatuba",
-        "country.name.zh": "阿拉萨图巴",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "ARU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Port of Spain",
-        "country.name.zh": "西班牙港",
-        "country.code": "Trinidadand Tobago",
-        "city.name": "特立尼达和多巴哥",
-        "city.name.zh": "POS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Salvador",
-        "country.name.zh": "萨尔瓦多",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "SSA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Timbo",
-        "country.name.zh": "廷博",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "NVT",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Neuquen",
-        "country.name.zh": "内乌肯",
-        "country.code": "Argentina",
-        "city.name": "阿根廷",
-        "city.name.zh": "NQN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Goiania",
-        "country.name.zh": "戈亚尼亚",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "GYN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Cuiaba",
-        "country.name.zh": "库亚巴",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "CGB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Cacador",
-        "country.name.zh": "卡萨多尔",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "CFC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Uberlandia",
-        "country.name.zh": "乌贝兰迪亚",
-        "country.code": "Brazil",
-        "city.name": "巴西",
-        "city.name.zh": "UDI",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Cali",
-        "country.name.zh": "卡利",
-        "country.code": "Colombia",
-        "city.name": "哥伦比亚",
-        "city.name.zh": "CLO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "San Pedro Sula",
-        "country.name.zh": "圣佩德罗苏拉",
-        "country.code": "Honduras",
-        "city.name": "洪都拉斯",
-        "city.name.zh": "SAP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Bogota",
-        "country.name.zh": "波哥大",
-        "country.code": "Colombia",
-        "city.name": "哥伦比亚",
-        "city.name.zh": "BOG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Latin America & the Caribbean",
-        "continent.name.zh": "拉丁美洲与加勒比地区",
-        "country.name": "Concepción",
-        "country.name.zh": "康塞普西翁",
-        "country.code": "Chile",
-        "city.name": "智利",
-        "city.name.zh": "CCP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Dammam",
-        "country.name.zh": "达曼",
-        "country.code": "Saudi Arabia",
-        "city.name": "沙特阿拉伯",
-        "city.name.zh": "DMM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Jeddah",
-        "country.name.zh": "吉达",
-        "country.code": "Saudi Arabia",
-        "city.name": "沙特阿拉伯",
-        "city.name.zh": "JED",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Riyadh",
-        "country.name.zh": "利雅得",
-        "country.code": "Saudi Arabia",
-        "city.name": "沙特阿拉伯",
-        "city.name.zh": "RUH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Astara",
-        "country.name.zh": "阿斯塔拉",
-        "country.code": "Azerbaijan",
-        "city.name": "阿塞拜疆",
-        "city.name.zh": "LLK",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Baku",
-        "country.name.zh": "巴库",
-        "country.code": "Azerbaijan",
-        "city.name": "阿塞拜疆",
-        "city.name.zh": "GYD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Manama",
-        "country.name.zh": "麦纳麦",
-        "country.code": "Bahrain",
-        "city.name": "巴林",
-        "city.name.zh": "BAH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Baghdad",
-        "country.name.zh": "巴格达",
-        "country.code": "Iraq",
-        "city.name": "伊拉克",
-        "city.name.zh": "BGW",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Basra",
-        "country.name.zh": "巴士拉",
-        "country.code": "Iraq",
-        "city.name": "伊拉克",
-        "city.name.zh": "BSR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Erbil",
-        "country.name.zh": "埃尔比勒",
-        "country.code": "Iraq",
-        "city.name": "伊拉克",
-        "city.name.zh": "EBL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Najaf",
-        "country.name.zh": "纳杰夫",
-        "country.code": "Iraq",
-        "city.name": "伊拉克",
-        "city.name.zh": "NJF",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Nasiriyah",
-        "country.name.zh": "纳西里耶",
-        "country.code": "Iraq",
-        "city.name": "伊拉克",
-        "city.name.zh": "XNH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Sulaymaniyah",
-        "country.name.zh": "苏莱曼尼亚",
-        "country.code": "Iraq",
-        "city.name": "伊拉克",
-        "city.name.zh": "ISU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Haifa",
-        "country.name.zh": "海法",
-        "country.code": "Israel",
-        "city.name": "以色列",
-        "city.name.zh": "HFA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Tel Aviv",
-        "country.name.zh": "特拉维夫",
-        "country.code": "Israel",
-        "city.name": "以色列",
-        "city.name.zh": "TLV",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Amman",
-        "country.name.zh": "安曼",
-        "country.code": "Jordan",
-        "city.name": "约旦",
-        "city.name.zh": "AMM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Kuwait City",
-        "country.name.zh": "科威特城",
-        "country.code": "Kuwait",
-        "city.name": "科威特",
-        "city.name.zh": "KWI",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Beirut",
-        "country.name.zh": "贝鲁特",
-        "country.code": "Lebanon",
-        "city.name": "黎巴嫩",
-        "city.name.zh": "BEY",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Muscat",
-        "country.name.zh": "马斯喀特",
-        "country.code": "Oman",
-        "city.name": "阿曼",
-        "city.name.zh": "MCT",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Doha",
-        "country.name.zh": "多哈",
-        "country.code": "Qatar",
-        "city.name": "卡塔尔",
-        "city.name.zh": "DOH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Ramallah ",
-        "country.name.zh": "拉姆安拉",
-        "country.code": "The State of Palestine",
-        "city.name": "巴勒斯坦国",
-        "city.name.zh": "ZDM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Middle East",
-        "continent.name.zh": "中东",
-        "country.name": "Dubai",
-        "country.name.zh": "迪拜",
-        "country.code": "United Arab Emirates",
-        "city.name": "阿拉伯联合酋长国",
-        "city.name.zh": "DXB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Seoul",
-        "country.name.zh": "首尔",
-        "country.code": "South Korea",
-        "city.name": "韩国",
-        "city.name.zh": "ICN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Colombo",
-        "country.name.zh": "科伦坡",
-        "country.code": "Sri Lanka",
-        "city.name": "斯里兰卡",
-        "city.name.zh": "CMB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Yerevan",
-        "country.name.zh": "埃里温",
-        "country.code": "Armenia",
-        "city.name": "亚美尼亚",
-        "city.name.zh": "EVN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Chittagong",
-        "country.name.zh": "吉大港",
-        "country.code": "Bangladesh",
-        "city.name": "孟加拉",
-        "city.name.zh": "CGP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Dhaka",
-        "country.name.zh": "达卡",
-        "country.code": "Bangladesh",
-        "city.name": "孟加拉",
-        "city.name.zh": "DAC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Thimphu",
-        "country.name.zh": "廷布",
-        "country.code": "Bhutan",
-        "city.name": "不丹",
-        "city.name.zh": "PBH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Bandar Seri Begawan",
-        "country.name.zh": "斯里巴加湾市",
-        "country.code": "Brunei",
-        "city.name": "文莱",
-        "city.name.zh": "BWN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Phnom Penh",
-        "country.name.zh": "金边",
-        "country.code": "Cambodia",
-        "city.name": "柬埔寨",
-        "city.name.zh": "PNH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Changde",
-        "country.name.zh": "常德",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "CGD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Foshan",
-        "country.name.zh": "佛山",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "FUO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Fuzhou",
-        "country.name.zh": "福州",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "FOC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Guangzhou",
-        "country.name.zh": "广州",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "CAN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Haikou",
-        "country.name.zh": "海口",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "HAK",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Hengshui",
-        "country.name.zh": "衡水",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "SJW",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Jinan",
-        "country.name.zh": "济南",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "TNA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Langfang",
-        "country.name.zh": "廊坊",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "PKX",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Qingdao",
-        "country.name.zh": "青岛",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "TAO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Shanghai",
-        "country.name.zh": "上海",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "SHA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Xinyu",
-        "country.name.zh": "新余",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "KHN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Shenzhen",
-        "country.name.zh": "深圳",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "SZX",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Guiyang",
-        "country.name.zh": "贵阳",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "KWE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Shaoxing",
-        "country.name.zh": "绍兴",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "HGH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Changzhou",
-        "country.name.zh": "常州",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "CZX",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Kunming",
-        "country.name.zh": "昆明",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "KMG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Zhengzhou",
-        "country.name.zh": "郑州",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "CGO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Yangquan",
-        "country.name.zh": "阳泉",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "TYN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Changsha",
-        "country.name.zh": "长沙",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "CSX",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Dalian",
-        "country.name.zh": "大连",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "DLC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Beihai",
-        "country.name.zh": "北海",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "BHY",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Chongqing",
-        "country.name.zh": "重庆",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "CKG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Xiangyang",
-        "country.name.zh": "襄阳",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "XFN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Jiaxing",
-        "country.name.zh": "嘉兴",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "JXG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Baoji",
-        "country.name.zh": "宝鸡",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "XIY",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Nanning",
-        "country.name.zh": "南宁",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "NNG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Zibo",
-        "country.name.zh": "淄博",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "TNA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Chengmai",
-        "country.name.zh": "澄迈",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "HAK",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Nanchang",
-        "country.name.zh": "南昌",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "KHN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Tongren",
-        "country.name.zh": "铜仁",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "TEN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Taizhou",
-        "country.name.zh": "台州",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "HYN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Shijiazhuang",
-        "country.name.zh": "石家庄",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "SJW",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Xining",
-        "country.name.zh": "西宁",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "XNN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Chengdu",
-        "country.name.zh": "成都",
-        "country.code": "China",
-        "city.name": "中国大陆",
-        "city.name.zh": "CTU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Hong Kong ",
-        "country.name.zh": "香港",
-        "country.code": "China Hong Kong",
-        "city.name": "中国香港特区",
-        "city.name.zh": "HKG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Macau ",
-        "country.name.zh": "澳门",
-        "country.code": "China Macau",
-        "city.name": "中国澳门特区",
-        "city.name.zh": "MFM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Kaohsiung City",
-        "country.name.zh": "高雄市",
-        "country.code": "China Taiwan",
-        "city.name": "中国台湾省",
-        "city.name.zh": "KHH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Taipei ",
-        "country.name.zh": "台北",
-        "country.code": "China Taiwan",
-        "city.name": "中国台湾省",
-        "city.name.zh": "TPE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Ahmedabad",
-        "country.name.zh": "艾哈迈达巴德",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "AMD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Bangalore",
-        "country.name.zh": "班加罗尔",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "BLR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Chandigarh",
-        "country.name.zh": "昌迪加尔",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "IXC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Chennai",
-        "country.name.zh": "金奈",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "MAA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Agra",
-        "country.name.zh": "阿格拉",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "AGR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Coimbatore",
-        "country.name.zh": "哥印拜陀",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "CJB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Hyderabad",
-        "country.name.zh": "海得拉巴",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "HYD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Kanpur",
-        "country.name.zh": "坎普尔",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "KNU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Kolkata",
-        "country.name.zh": "加尔各答",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "CCU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Mumbai",
-        "country.name.zh": "孟买",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "BOM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "Nagpur",
-        "country.name.zh": "那格浦尔",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "NAG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Asia",
-        "continent.name.zh": "亚洲",
-        "country.name": "New Delhi",
-        "country.name.zh": "新德里",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "DEL",
-        "iata.code": null
-    },
-    {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Patna",
-        "country.name.zh": "巴特那",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "PAT",
-        "iata.code": null
+        "country.name": "China Macau",
+        "country.name.zh": "中国澳门特区",
+        "country.code": "MO",
+        "city.name": "Macau ",
+        "city.name.zh": "澳门",
+        "iata.code": "MFM"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Kochi",
-        "country.name.zh": "科钦",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "COK",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Changde",
+        "city.name.zh": "常德",
+        "iata.code": "CGD"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Kannur",
-        "country.name.zh": "坎努尔",
-        "country.code": "India",
-        "city.name": "印度",
-        "city.name.zh": "CNN",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Foshan",
+        "city.name.zh": "佛山",
+        "iata.code": "FUO"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Jakarta",
-        "country.name.zh": "雅加达",
-        "country.code": "Indonesia",
-        "city.name": "印度尼西亚",
-        "city.name.zh": "CGK",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Fuzhou",
+        "city.name.zh": "福州",
+        "iata.code": "FOC"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Yogyakarta",
-        "country.name.zh": "日惹",
-        "country.code": "Indonesia",
-        "city.name": "印度尼西亚",
-        "city.name.zh": "JOG",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Guangzhou",
+        "city.name.zh": "广州",
+        "iata.code": "CAN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Denpasar",
-        "country.name.zh": "登巴萨",
-        "country.code": "Indonesia",
-        "city.name": "印度尼西亚",
-        "city.name.zh": "DPS",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Haikou",
+        "city.name.zh": "海口",
+        "iata.code": "HAK"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Malang",
-        "country.name.zh": "玛琅",
-        "country.code": "Indonesia",
-        "city.name": "印度尼西亚",
-        "city.name.zh": "MLG",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Hengshui",
+        "city.name.zh": "衡水",
+        "iata.code": "SJW"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Fukuoka",
-        "country.name.zh": "福冈",
-        "country.code": "Japan",
-        "city.name": "日本",
-        "city.name.zh": "FUK",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Jinan",
+        "city.name.zh": "济南",
+        "iata.code": "TNA"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Naha",
-        "country.name.zh": "那霸",
-        "country.code": "Japan",
-        "city.name": "日本",
-        "city.name.zh": "OKA",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Langfang",
+        "city.name.zh": "廊坊",
+        "iata.code": "PKX"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Osaka",
-        "country.name.zh": "大阪",
-        "country.code": "Japan",
-        "city.name": "日本",
-        "city.name.zh": "KIX",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Qingdao",
+        "city.name.zh": "青岛",
+        "iata.code": "TAO"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Tokyo",
-        "country.name.zh": "东京",
-        "country.code": "Japan",
-        "city.name": "日本",
-        "city.name.zh": "NRT",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Shanghai",
+        "city.name.zh": "上海",
+        "iata.code": "SHA"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Almaty",
-        "country.name.zh": "阿拉木图",
-        "country.code": "Kazakhstan",
-        "city.name": "哈萨克斯坦",
-        "city.name.zh": "ALA",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Xinyu",
+        "city.name.zh": "新余",
+        "iata.code": "KHN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Astana",
-        "country.name.zh": "阿斯塔纳",
-        "country.code": "Kazakhstan",
-        "city.name": "哈萨克斯坦",
-        "city.name.zh": "NQZ",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Shenzhen",
+        "city.name.zh": "深圳",
+        "iata.code": "SZX"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Aktobe",
-        "country.name.zh": "阿克托别",
-        "country.code": "Kazakhstan",
-        "city.name": "哈萨克斯坦",
-        "city.name.zh": "AKX",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Guiyang",
+        "city.name.zh": "贵阳",
+        "iata.code": "KWE"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Bishkek",
-        "country.name.zh": "比什凯克",
-        "country.code": "Kyrgyzstan",
-        "city.name": "吉尔吉斯斯坦",
-        "city.name.zh": "FRU",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Shaoxing",
+        "city.name.zh": "绍兴",
+        "iata.code": "HGH"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Vientiane",
-        "country.name.zh": "万象",
-        "country.code": "Laos",
-        "city.name": "老挝",
-        "city.name.zh": "VTE",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Changzhou",
+        "city.name.zh": "常州",
+        "iata.code": "CZX"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Johor Bahru",
-        "country.name.zh": "新山",
-        "country.code": "Malaysia",
-        "city.name": "马来西亚",
-        "city.name.zh": " (JHB",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Kunming",
+        "city.name.zh": "昆明",
+        "iata.code": "KMG"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Kuala Lumpur",
-        "country.name.zh": "吉隆坡",
-        "country.code": "Malaysia",
-        "city.name": "马来西亚",
-        "city.name.zh": "KUL",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Zhengzhou",
+        "city.name.zh": "郑州",
+        "iata.code": "CGO"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Kuching",
-        "country.name.zh": "古晋",
-        "country.code": "Malaysia",
-        "city.name": "马来西亚",
-        "city.name.zh": "KCH",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Yangquan",
+        "city.name.zh": "阳泉",
+        "iata.code": "TYN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Malé",
-        "country.name.zh": "马累",
-        "country.code": "Maldives",
-        "city.name": "马尔代夫",
-        "city.name.zh": "MLE",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Changsha",
+        "city.name.zh": "长沙",
+        "iata.code": "CSX"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Male",
-        "country.name.zh": "马累",
-        "country.code": "Maldives",
-        "city.name": "马尔代夫",
-        "city.name.zh": "MLE",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Dalian",
+        "city.name.zh": "大连",
+        "iata.code": "DLC"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Ulaanbaatar",
-        "country.name.zh": "乌兰巴托",
-        "country.code": "Mongolia",
-        "city.name": "蒙古",
-        "city.name.zh": "ULN",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Beihai",
+        "city.name.zh": "北海",
+        "iata.code": "BHY"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Kathmandu",
-        "country.name.zh": "加德满都",
-        "country.code": "Nepal",
-        "city.name": "尼泊尔",
-        "city.name.zh": "KTM",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Chongqing",
+        "city.name.zh": "重庆",
+        "iata.code": "CKG"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Islamabad",
-        "country.name.zh": "伊斯兰堡",
-        "country.code": "Pakistan",
-        "city.name": "巴基斯坦",
-        "city.name.zh": "ISB",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Xiangyang",
+        "city.name.zh": "襄阳",
+        "iata.code": "XFN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Karachi",
-        "country.name.zh": "卡拉奇",
-        "country.code": "Pakistan",
-        "city.name": "巴基斯坦",
-        "city.name.zh": "KHI",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Jiaxing",
+        "city.name.zh": "嘉兴",
+        "iata.code": "JXG"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Lahore",
-        "country.name.zh": "拉合尔",
-        "country.code": "Pakistan",
-        "city.name": "巴基斯坦",
-        "city.name.zh": "LHE",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Baoji",
+        "city.name.zh": "宝鸡",
+        "iata.code": "XIY"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Cebu",
-        "country.name.zh": "宿务",
-        "country.code": "Philippines",
-        "city.name": "菲律宾",
-        "city.name.zh": "CEB",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Nanning",
+        "city.name.zh": "南宁",
+        "iata.code": "NNG"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Manila",
-        "country.name.zh": "马尼拉",
-        "country.code": "Philippines",
-        "city.name": "菲律宾",
-        "city.name.zh": "MNL",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Zibo",
+        "city.name.zh": "淄博",
+        "iata.code": "TNA"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Cagayan de Oro",
-        "country.name.zh": "卡加延德奥罗",
-        "country.code": "Philippines",
-        "city.name": "菲律宾",
-        "city.name.zh": "CGY",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Chengmai",
+        "city.name.zh": "澄迈",
+        "iata.code": "HAK"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Tarlac City",
-        "country.name.zh": "打拉市",
-        "country.code": "Philippines",
-        "city.name": "菲律宾",
-        "city.name.zh": "CRK",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Nanchang",
+        "city.name.zh": "南昌",
+        "iata.code": "KHN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Krasnoyarsk",
-        "country.name.zh": "克拉斯诺亚尔斯克",
-        "country.code": "Russia",
-        "city.name": "俄罗斯",
-        "city.name.zh": "KJA",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Tongren",
+        "city.name.zh": "铜仁",
+        "iata.code": "TEN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Singapore",
-        "country.name.zh": "新加坡",
-        "country.code": "Singapore",
-        "city.name": "新加坡",
-        "city.name.zh": "SIN",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Taizhou",
+        "city.name.zh": "台州",
+        "iata.code": "HYN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Bangkok",
-        "country.name.zh": "曼谷",
-        "country.code": "Thailand",
-        "city.name": "泰国",
-        "city.name.zh": "BKK",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Shijiazhuang",
+        "city.name.zh": "石家庄",
+        "iata.code": "SJW"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Surat Thani",
-        "country.name.zh": "素叻他尼",
-        "country.code": "Thailand",
-        "city.name": "泰国",
-        "city.name.zh": "URT",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Xining",
+        "city.name.zh": "西宁",
+        "iata.code": "XNN"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Chiang Mai",
-        "country.name.zh": "清迈",
-        "country.code": "Thailand",
-        "city.name": "泰国",
-        "city.name.zh": "CNX",
-        "iata.code": null
+        "country.name": "China",
+        "country.name.zh": "中国大陆",
+        "country.code": "CN",
+        "city.name": "Chengdu",
+        "city.name.zh": "成都",
+        "iata.code": "CTU"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Hanoi",
-        "country.name.zh": "河内",
-        "country.code": "Vietnam",
-        "city.name": "越南",
-        "city.name.zh": "HAN",
-        "iata.code": null
+        "country.name": "China Taiwan",
+        "country.name.zh": "中国台湾省",
+        "country.code": "TW",
+        "city.name": "Kaohsiung City",
+        "city.name.zh": "高雄市",
+        "iata.code": "KHH"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Ho Chi Minh City",
-        "country.name.zh": "胡志明市",
-        "country.code": "Vietnam",
-        "city.name": "越南",
-        "city.name.zh": "SGN",
-        "iata.code": null
+        "country.name": "China Taiwan",
+        "country.name.zh": "中国台湾省",
+        "country.code": "TW",
+        "city.name": "Taipei ",
+        "city.name.zh": "台北",
+        "iata.code": "TPE"
     },
     {
         "continent.name": "Asia",
         "continent.name.zh": "亚洲",
-        "country.name": "Da Nang",
-        "country.name.zh": "岘港",
-        "country.code": "Vietnam",
-        "city.name": "越南",
-        "city.name.zh": "DAD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Prague",
-        "country.name.zh": "布拉格",
-        "country.code": "Czech Republic",
-        "city.name": "捷克共和国",
-        "city.name.zh": "PRG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Tirana",
-        "country.name.zh": "地拉那",
-        "country.code": "Albania",
-        "city.name": "阿尔巴尼亚",
-        "city.name.zh": "TIA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Vienna",
-        "country.name.zh": "维也纳",
-        "country.code": "Austria",
-        "city.name": "奥地利",
-        "city.name.zh": "VIE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Minsk",
-        "country.name.zh": "明斯克",
-        "country.code": "Belarus",
-        "city.name": "白俄罗斯",
-        "city.name.zh": "MSQ",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Brussels",
-        "country.name.zh": "布鲁塞尔",
-        "country.code": "Belgium",
-        "city.name": "比利时",
-        "city.name.zh": "BRU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Sofia",
-        "country.name.zh": "索非亚",
-        "country.code": "Bulgaria",
-        "city.name": "保加利亚",
-        "city.name.zh": "SOF",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Zagreb",
-        "country.name.zh": "萨格勒布",
-        "country.code": "Croatia",
-        "city.name": "克罗地亚",
-        "city.name.zh": "ZAG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Nicosia",
-        "country.name.zh": "尼科西亚",
-        "country.code": "Cyprus",
-        "city.name": "塞浦路斯",
-        "city.name.zh": "LCA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Copenhagen",
-        "country.name.zh": "哥本哈根",
-        "country.code": "Denmark",
-        "city.name": "丹麦",
-        "city.name.zh": "CPH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Tallinn",
-        "country.name.zh": "塔林",
-        "country.code": "Estonia",
-        "city.name": "爱沙尼亚",
-        "city.name.zh": "TLL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Helsinki",
-        "country.name.zh": "赫尔辛基",
-        "country.code": "Finland",
-        "city.name": "芬兰",
-        "city.name.zh": "HEL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Marseille",
-        "country.name.zh": "马赛",
-        "country.code": "France",
-        "city.name": "法国",
-        "city.name.zh": "MRS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Paris",
-        "country.name.zh": "巴黎",
-        "country.code": "France",
-        "city.name": "法国",
-        "city.name.zh": "CDG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Lyon",
-        "country.name.zh": "里昂",
-        "country.code": "France",
-        "city.name": "法国",
-        "city.name.zh": "LYS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Bordeaux",
-        "country.name.zh": "波尔多",
-        "country.code": "France",
-        "city.name": "法国",
-        "city.name.zh": "BOD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Tbilisi",
-        "country.name.zh": "第比利斯",
-        "country.code": "Georgia",
-        "city.name": "格鲁吉亚",
-        "city.name.zh": "TBS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Berlin",
-        "country.name.zh": "柏林",
-        "country.code": "Germany",
-        "city.name": "德国",
-        "city.name.zh": "TXL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Düsseldorf",
-        "country.name.zh": "杜塞尔多夫",
-        "country.code": "Germany",
-        "city.name": "德国",
-        "city.name.zh": "DUS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Frankfurt",
-        "country.name.zh": "法兰克福",
-        "country.code": "Germany",
-        "city.name": "德国",
-        "city.name.zh": "FRA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Hamburg",
-        "country.name.zh": "汉堡",
-        "country.code": "Germany",
-        "city.name": "德国",
-        "city.name.zh": "HAM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Munich",
-        "country.name.zh": "慕尼黑",
-        "country.code": "Germany",
-        "city.name": "德国",
-        "city.name.zh": "MUC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Stuttgart",
-        "country.name.zh": "斯图加特",
-        "country.code": "Germany",
-        "city.name": "德国",
-        "city.name.zh": "STR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Athens",
-        "country.name.zh": "雅典",
-        "country.code": "Greece",
-        "city.name": "希腊",
-        "city.name.zh": "ATH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Thessaloniki",
-        "country.name.zh": "塞萨洛尼基",
-        "country.code": "Greece",
-        "city.name": "希腊",
-        "city.name.zh": "SKG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Budapest",
-        "country.name.zh": "布达佩斯",
-        "country.code": "Hungary",
-        "city.name": "匈牙利",
-        "city.name.zh": "BUD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Reykjavík",
-        "country.name.zh": "雷克雅未克",
-        "country.code": "Iceland",
-        "city.name": "冰岛",
-        "city.name.zh": "KEF",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Dublin",
-        "country.name.zh": "都柏林",
-        "country.code": "Ireland",
-        "city.name": "爱尔兰",
-        "city.name.zh": "DUB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Milan",
-        "country.name.zh": "米兰",
-        "country.code": "Italy",
-        "city.name": "意大利",
-        "city.name.zh": "MXP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Palermo",
-        "country.name.zh": "巴勒莫",
-        "country.code": "Italy",
-        "city.name": "意大利",
-        "city.name.zh": "PMO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Rome",
-        "country.name.zh": "罗马",
-        "country.code": "Italy",
-        "city.name": "意大利",
-        "city.name.zh": "FCO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Riga",
-        "country.name.zh": "里加",
-        "country.code": "Latvia",
-        "city.name": "拉脱维亚",
-        "city.name.zh": "RIX",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Vilnius",
-        "country.name.zh": "维尔纽斯",
-        "country.code": "Lithuania",
-        "city.name": "立陶宛",
-        "city.name.zh": "VNO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Luxembourg City",
-        "country.name.zh": "卢森堡市",
-        "country.code": "Luxembourg",
-        "city.name": "卢森堡",
-        "city.name.zh": "LUX",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Santa Venera",
-        "country.name.zh": "圣维内拉",
-        "country.code": "Malta",
-        "city.name": "马耳他",
-        "city.name.zh": "MLA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Chișinău",
-        "country.name.zh": "基希讷乌",
-        "country.code": "Moldova",
-        "city.name": "摩尔多瓦",
-        "city.name.zh": "KIV",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Amsterdam",
-        "country.name.zh": "阿姆斯特丹",
-        "country.code": "Netherlands",
-        "city.name": "荷兰",
-        "city.name.zh": "AMS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Skopje",
-        "country.name.zh": "斯科普里",
-        "country.code": "North Macedonia",
-        "city.name": "北马其顿",
-        "city.name.zh": "SKP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Oslo",
-        "country.name.zh": "奥斯陆",
-        "country.code": "Norway",
-        "city.name": "挪威",
-        "city.name.zh": "OSL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Warsaw",
-        "country.name.zh": "华沙",
-        "country.code": "Poland",
-        "city.name": "波兰",
-        "city.name.zh": "WAW",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Wroclaw",
-        "country.name.zh": "弗罗茨瓦夫",
-        "country.code": "Poland",
-        "city.name": "波兰",
-        "city.name.zh": "WRO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Lisbon",
-        "country.name.zh": "里斯本",
-        "country.code": "Portugal",
-        "city.name": "葡萄牙",
-        "city.name.zh": "LIS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Bucharest",
-        "country.name.zh": "布加勒斯特",
-        "country.code": "Romania",
-        "city.name": "罗马尼亚",
-        "city.name.zh": "OTP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Moscow",
-        "country.name.zh": "莫斯科",
-        "country.code": "Russia",
-        "city.name": "俄罗斯",
-        "city.name.zh": "DME",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Saint Petersburg",
-        "country.name.zh": "圣彼得堡",
-        "country.code": "Russia",
-        "city.name": "俄罗斯",
-        "city.name.zh": "LED",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Belgrade",
-        "country.name.zh": "贝尔格莱德",
-        "country.code": "Serbia",
-        "city.name": "塞尔维亚",
-        "city.name.zh": "BEG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Bratislava",
-        "country.name.zh": "布拉迪斯拉发",
-        "country.code": "Slovakia",
-        "city.name": "斯洛伐克",
-        "city.name.zh": "BTS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Barcelona",
-        "country.name.zh": "巴塞罗那",
-        "country.code": "Spain",
-        "city.name": "西班牙",
-        "city.name.zh": "BCN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Madrid",
-        "country.name.zh": "马德里",
-        "country.code": "Spain",
-        "city.name": "西班牙",
-        "city.name.zh": "MAD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Gothenburg",
-        "country.name.zh": "哥德堡",
-        "country.code": "Sweden",
-        "city.name": "瑞典",
-        "city.name.zh": "GOT",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Stockholm",
-        "country.name.zh": "斯德哥尔摩",
-        "country.code": "Sweden",
-        "city.name": "瑞典",
-        "city.name.zh": "ARN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Geneva",
-        "country.name.zh": "日内瓦",
-        "country.code": "Switzerland",
-        "city.name": "瑞士",
-        "city.name.zh": "GVA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Zurich",
-        "country.name.zh": "苏黎世",
-        "country.code": "Switzerland",
-        "city.name": "瑞士",
-        "city.name.zh": "ZRH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Istanbul",
-        "country.name.zh": "伊斯坦布尔",
-        "country.code": "Turkey",
-        "city.name": "土耳其",
-        "city.name.zh": "IST",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Izmir",
-        "country.name.zh": "伊兹密尔",
-        "country.code": "Turkey",
-        "city.name": "土耳其",
-        "city.name.zh": "ADB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Kyiv",
-        "country.name.zh": "基辅",
-        "country.code": "Ukraine",
-        "city.name": "乌克兰",
-        "city.name.zh": "KBP",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "London",
-        "country.name.zh": "伦敦",
-        "country.code": "United Kingdom",
-        "city.name": "英国",
-        "city.name.zh": "LHR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Europe",
-        "continent.name.zh": "欧洲",
-        "country.name": "Manchester",
-        "country.name.zh": "曼彻斯特",
-        "country.code": "United Kingdom",
-        "city.name": "英国",
-        "city.name.zh": "MAN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Ouagadougou",
-        "country.name.zh": "瓦加杜古",
-        "country.code": "Burkina Faso",
-        "city.name": "布基纳法索",
-        "city.name.zh": "OUA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Kinshasa",
-        "country.name.zh": "金沙萨",
-        "country.code": "DR Congo",
-        "city.name": "刚果民主共和国",
-        "city.name.zh": "FIH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Yamoussoukro",
-        "country.name.zh": "亚穆苏克罗",
-        "country.code": "Ivory Coast",
-        "city.name": "科特迪瓦",
-        "city.name.zh": "ASK",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Abidjan",
-        "country.name.zh": "阿比让",
-        "country.code": "Ivory Coast",
-        "city.name": "科特迪瓦",
-        "city.name.zh": "ABJ",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Cape Town",
-        "country.name.zh": "开普敦",
-        "country.code": "South Africa",
-        "city.name": "南非",
-        "city.name.zh": "CPT",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Durban",
-        "country.name.zh": "德班",
-        "country.code": "South Africa",
-        "city.name": "南非",
-        "city.name.zh": "DUR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Johannesburg",
-        "country.name.zh": "约翰内斯堡",
-        "country.code": "South Africa",
-        "city.name": "南非",
-        "city.name.zh": "JNB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Algiers",
-        "country.name.zh": "阿尔及尔",
-        "country.code": "Algeria",
-        "city.name": "阿尔及利亚",
-        "city.name.zh": "ALG",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Annaba",
-        "country.name.zh": "安纳巴",
-        "country.code": "Algeria",
-        "city.name": "阿尔及利亚",
-        "city.name.zh": "AAE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Oran",
-        "country.name.zh": "奥兰",
-        "country.code": "Algeria",
-        "city.name": "阿尔及利亚",
-        "city.name.zh": "ORN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Constantine",
-        "country.name.zh": "君士坦丁",
-        "country.code": "Algeria",
-        "city.name": "阿尔及利亚",
-        "city.name.zh": "CZL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Luanda",
-        "country.name.zh": "罗安达",
-        "country.code": "Angola",
-        "city.name": "安哥拉",
-        "city.name.zh": "LAD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Gaborone",
-        "country.name.zh": "哈博罗内",
-        "country.code": "Botswana",
-        "city.name": "博茨瓦纳",
-        "city.name.zh": "GBE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Djibouti City",
-        "country.name.zh": "吉布提市",
-        "country.code": "Djibouti",
-        "city.name": "吉布提",
-        "city.name.zh": "JIB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Djibouti",
-        "country.name.zh": "吉布提",
-        "country.code": "Djibouti",
-        "city.name": "吉布提",
-        "city.name.zh": "JIB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Cairo",
-        "country.name.zh": "开罗",
-        "country.code": "Egypt",
-        "city.name": "埃及",
-        "city.name.zh": "CAI",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Addis Ababa",
-        "country.name.zh": "亚的斯亚贝巴",
-        "country.code": "Ethiopia",
-        "city.name": "埃塞俄比亚",
-        "city.name.zh": "ADD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Accra",
-        "country.name.zh": "阿克拉",
-        "country.code": "Ghana",
-        "city.name": "加纳",
-        "city.name.zh": "ACC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Mombasa",
-        "country.name.zh": "蒙巴萨",
-        "country.code": "Kenya",
-        "city.name": "肯尼亚",
-        "city.name.zh": "MBA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Nairobi",
-        "country.name.zh": "内罗毕",
-        "country.code": "Kenya",
-        "city.name": "肯尼亚",
-        "city.name.zh": "NBO",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Antananarivo",
-        "country.name.zh": "塔那那利佛",
-        "country.code": "Madagascar",
-        "city.name": "马达加斯加",
-        "city.name.zh": "TNR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Lilongwe",
-        "country.name.zh": "利隆圭",
-        "country.code": "Malawi",
-        "city.name": "马拉维",
-        "city.name.zh": "LLW",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Port Louis",
-        "country.name.zh": "路易港",
-        "country.code": "Mauritius",
-        "city.name": "毛里求斯",
-        "city.name.zh": "MRU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Maputo",
-        "country.name.zh": "马普托",
-        "country.code": "Mozambique",
-        "city.name": "莫桑比克",
-        "city.name.zh": "MPM",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Windhoek",
-        "country.name.zh": "温得和克",
-        "country.code": "Namibia",
-        "city.name": "纳米比亚",
-        "city.name.zh": "WDH",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Lagos",
-        "country.name.zh": "拉各斯",
-        "country.code": "Nigeria",
-        "city.name": "尼日利亚",
-        "city.name.zh": "LOS",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Saint-Denis",
-        "country.name.zh": "圣但尼",
-        "country.code": "Réunion",
-        "city.name": "留尼汪",
-        "city.name.zh": "RUN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Kigali",
-        "country.name.zh": "基加利",
-        "country.code": "Rwanda",
-        "city.name": "卢旺达",
-        "city.name.zh": "KGL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Dakar",
-        "country.name.zh": "达喀尔",
-        "country.code": "Senegal",
-        "city.name": "塞内加尔",
-        "city.name.zh": "DKR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Dar Es Salaam",
-        "country.name.zh": "达累斯萨拉姆",
-        "country.code": "Tanzania",
-        "city.name": "坦桑尼亚",
-        "city.name.zh": "DAR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Dar es Salaam",
-        "country.name.zh": "达累斯萨拉姆",
-        "country.code": "Tanzania",
-        "city.name": "坦桑尼亚",
-        "city.name.zh": "DAR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Tunis",
-        "country.name.zh": "突尼斯",
-        "country.code": "Tunisia",
-        "city.name": "突尼斯",
-        "city.name.zh": "TUN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Kampala",
-        "country.name.zh": "坎帕拉",
-        "country.code": "Uganda",
-        "city.name": "乌干达",
-        "city.name.zh": "EBB",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Lusaka",
-        "country.name.zh": "卢萨卡",
-        "country.code": "Zambia",
-        "city.name": "赞比亚",
-        "city.name.zh": "LUN",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Africa",
-        "continent.name.zh": "非洲",
-        "country.name": "Harare",
-        "country.name.zh": "哈拉雷",
-        "country.code": "Zimbabwe",
-        "city.name": "津巴布韦",
-        "city.name.zh": "HRE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Tahiti",
-        "country.name.zh": "塔希提岛",
-        "country.code": "French Polynesia",
-        "city.name": "法属波利尼西亚",
-        "city.name.zh": "PPT",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Noumea",
-        "country.name.zh": "努美阿",
-        "country.code": "New Caledonia",
-        "city.name": "新喀里多尼亚",
-        "city.name.zh": "NOU",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Auckland",
-        "country.name.zh": "奥克兰",
-        "country.code": "New Zealand",
-        "city.name": "新西兰",
-        "city.name.zh": "AKL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Christchurch",
-        "country.name.zh": "基督城",
-        "country.code": "New Zealand",
-        "city.name": "新西兰",
-        "city.name.zh": "CHC",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Adelaide",
-        "country.name.zh": "阿德莱德",
-        "country.code": "Australia",
-        "city.name": "澳大利亚",
-        "city.name.zh": "ADL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Brisbane",
-        "country.name.zh": "布里斯班",
-        "country.code": "Australia",
-        "city.name": "澳大利亚",
-        "city.name.zh": "BNE",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Canberra",
-        "country.name.zh": "堪培拉",
-        "country.code": "Australia",
-        "city.name": "澳大利亚",
-        "city.name.zh": "CBR",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Melbourne",
-        "country.name.zh": "墨尔本",
-        "country.code": "Australia",
-        "city.name": "澳大利亚",
-        "city.name.zh": "MEL",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Perth",
-        "country.name.zh": "珀斯",
-        "country.code": "Australia",
-        "city.name": "澳大利亚",
-        "city.name.zh": "PER",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Sydney",
-        "country.name.zh": "悉尼",
-        "country.code": "Australia",
-        "city.name": "澳大利亚",
-        "city.name.zh": "SYD",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Hobart",
-        "country.name.zh": "霍巴特",
-        "country.code": "Australia",
-        "city.name": "澳大利亚",
-        "city.name.zh": "HBA",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Suva",
-        "country.name.zh": "苏瓦",
-        "country.code": "Fiji",
-        "city.name": "斐济",
-        "city.name.zh": "SUV",
-        "iata.code": null
-    },
-    {
-        "continent.name": "Oceania",
-        "continent.name.zh": "大洋洲",
-        "country.name": "Hagatna",
-        "country.name.zh": "哈加特纳",
-        "country.code": "Guam",
-        "city.name": "关岛",
-        "city.name.zh": "GUM",
-        "iata.code": null
+        "country.name": "China Hong Kong",
+        "country.name.zh": "中国香港特区",
+        "country.code": "HK",
+        "city.name": "Hong Kong ",
+        "city.name.zh": "香港",
+        "iata.code": "HKG"
     }
 ]
